@@ -748,8 +748,8 @@ msgstr "Correctifs"
 msgid "Functions"
 msgstr "Fonctions"
 
-msgid "Create a new installer"
-msgstr "Créer un nouvel installateur"
+msgid "New installer"
+msgstr "Nouvel installateur"
 
 msgid "My unsigned installers"
 msgstr "Mes installateurs non-signés"
