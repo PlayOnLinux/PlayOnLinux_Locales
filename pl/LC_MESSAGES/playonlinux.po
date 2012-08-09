@@ -1,0 +1,547 @@
+msgid "Quotation"
+msgstr "Cytat"
+
+msgid "of"
+msgstr "z"
+
+msgid "Secret"
+msgstr "Ukryte"
+
+msgid "The aim of PlayOnLinux is to make the games designed for Microsoft Windows easy to install on Linux, thanks to the famous Wine."
+msgstr "PlayOnLinux ułatwia instalacje gier Windowsowkich pod Linuksem za pomocą słynnego programu wine."
+
+msgid "Home"
+msgstr "Witamy"
+
+msgid "News"
+msgstr "Newsy"
+
+msgid "Presentation"
+msgstr "Prezentacja"
+
+msgid "RSS Feed"
+msgstr "Kanały RSS"
+
+msgid "The website team"
+msgstr "Staff strony"
+
+msgid "PlayOnLinux"
+msgstr "PlayOnLinux"
+
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+msgid "Downloads"
+msgstr "Download"
+
+msgid "Supported software"
+msgstr "Skrypty"
+
+msgid "Send us your own script"
+msgstr "Stwórz i zaproponuj własnty skrypt"
+
+msgid "Community"
+msgstr "Społeczność"
+
+msgid "The forum"
+msgstr "Fora"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Guestbook"
+msgstr "Księga gości"
+
+msgid "Members"
+msgstr "Członkowie"
+
+msgid "Log out"
+msgstr "Wyloguj"
+
+msgid "Log in"
+msgstr "Zaologuj"
+
+msgid "Your profile"
+msgstr "Twój profil"
+
+msgid "Register"
+msgstr "Rejestracja"
+
+msgid "Member list"
+msgstr "Lista członków"
+
+msgid "Your private messages"
+msgstr "Twoje prywatne wiadomości"
+
+msgid "Ads"
+msgstr "Reklama"
+
+msgid "Who is online?"
+msgstr "Kto jest online ?"
+
+msgid "people online"
+msgstr "ludzie online"
+
+msgid "Poll"
+msgstr "Sondaż"
+
+msgid "Partners"
+msgstr "Partnerzy"
+
+msgid "Language"
+msgstr "Język"
+
+
+msgid "PlayOnLinux - Run your Windows applications on Linux easily!"
+msgstr "PlayOnLinux - Graj pod linuksem za darmo i bez trudu!"
+
+msgid "Your distribution"
+msgstr "Your distribution"
+
+msgid "Last versions"
+msgstr "Last versions"
+
+msgid "You are not the owner of this message!"
+msgstr "Ta wiadomość nie należy do Ciebie!"
+
+msgid "Click here to go back to the private messages page"
+msgstr "kliknij tutaj żeby powrócić do strony z prywatnymi wiadomościami"
+
+msgid "You are not the author of this message!"
+msgstr "Nie jesteś nadawcą tej wiadomości"
+
+msgid "You are not the recipient of this message"
+msgstr "Nie jesteś odbiorcą tej wiadomości"
+
+msgid "The message selected does not exist"
+msgstr "Zle wybrałeś wiadomość"
+
+msgid "Please go back"
+msgstr "proszę wrócić"
+
+msgid "to the private messages page"
+msgstr "Do strony z prywatnymi wiadomościami"
+
+msgid "You must be logged in to see your private messages"
+msgstr "Musisz być zalogowany na koncie żeby odczytać Twoje prywatne wiadomości"
+
+msgid "You are not allowed to see this message!"
+msgstr "Nie masz pozwolenia by zoabczyć tę wiadomość"
+
+msgid "The selected message does not exist"
+msgstr "Wybrana wiadomość nie istnieje"
+
+msgid "You must be logged in to send a private message"
+msgstr "Musisz być zalogowany na koncie żeby wysłać Twoje prywatne wiadomości."
+
+msgid "You have not filled in the blank"
+msgstr "Nie uzupełniłeś pola"
+
+msgid "The selected recipient of the message does not exist. Please go back to the previous page"
+msgstr "Nieprawidłowy odbiorca, proszę wrócić na poprzednią stronę."
+
+msgid "The requested topic does not exist. Please go back to the previous page."
+msgstr "Istnieje błąd w wybranym temacie, proszę wrócić na poprzednią stronę"
+
+msgid "The requested topic does not exist"
+msgstr "Temat nie istnieje"
+
+msgid "This topic has been locked by a moderator"
+msgstr "Ten temat został zablokowany przez moderatora"
+
+msgid "You're not allowed to see this page"
+msgstr "Nie masz tutaj wstępu!"
+
+msgid "Index"
+msgstr "Witaj"
+
+msgid "Forums"
+msgstr "Fora"
+
+msgid "No Messages"
+msgstr "Nie ma wiadomości"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Latest message"
+msgstr "Ostatnie wiadomości"
+
+msgid "Latest messages"
+msgstr "Ostatnie wiadomości"
+
+msgid "Topics"
+msgstr "Tematy"
+
+msgid "Messages"
+msgstr "Wiadmości"
+
+msgid "There are no messages."
+msgstr "Nie ma wiadomości"
+
+msgid "Pages"
+msgstr "Strony"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Replies"
+msgstr "Odpowiedzi"
+
+msgid "Read"
+msgstr "Przeczytane"
+
+msgid "Forums list"
+msgstr "Lista forów"
+
+msgid "jump to the page"
+msgstr "Idz do strony"
+
+msgid "Topics list"
+msgstr "Lista tematów"
+
+msgid "Quote"
+msgstr "Cytuj"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Delete"
+msgstr "Usuń"
+
+msgid "Quick reply"
+msgstr "Szybka odpowiedz"
+
+msgid "Sent on"
+msgstr "Umieszczone dnia"
+
+msgid "Rank"
+msgstr "Ranga"
+
+msgid "Edited by"
+msgstr "Edytowane przez"
+
+msgid "Send"
+msgstr "Wyślij"
+
+msgid "Preview"
+msgstr "Podgląd"
+
+msgid "Message"
+msgstr "Wiadmości"
+
+msgid "Answer to topic :"
+msgstr "Odpowiedz na temat:"
+
+msgid "New topic"
+msgstr "Nowy temat"
+
+msgid "Title"
+msgstr "Tytuł"
+
+msgid "Sub-title"
+msgstr "Pod-tytuł"
+
+msgid "Your message has been successfully sent"
+msgstr "Twoja wiadomość została wysłana"
+
+msgid "Click here to see it"
+msgstr "Kliknij tutaj żeby ją zobaczyć."
+
+msgid "Edit a post"
+msgstr "Edytuj wiadomość"
+
+msgid "Delete a message"
+msgstr "Usuń wiadomość"
+
+msgid "This message will be deleted forever. Are you sure?"
+msgstr "Jesteś pewien czy chcesz usunąć tę wiadomość?"
+
+msgid "Moderation"
+msgstr "Modyfikuj"
+
+msgid "Automatic topic"
+msgstr "Wiadomości automatyczne"
+
+msgid "Set post-it on"
+msgstr "Przyklej post-it"
+
+msgid "Set post-it off"
+msgstr "Usuń post-it"
+
+msgid "Restore"
+msgstr "Przywróć"
+
+msgid "Lock"
+msgstr "Zablokuj"
+
+msgid "Unlock"
+msgstr "Odblokuj"
+
+msgid "Mark as solved"
+msgstr "Zaznacz ten temat jako rozwiązany"
+
+msgid "Mark as unsolved"
+msgstr "Zaznacz ten temat jako nierozwiązanyM"
+
+msgid "Move"
+msgstr "Przesuń"
+
+msgid "Title edition"
+msgstr "Zmień tytuł"
+
+msgid "Topic's state successfully changed"
+msgstr "Stan tematu został zmieniony"
+
+msgid "BB Code"
+msgstr "Kod BB"
+
+msgid "Smileys"
+msgstr "Emotikony"
+
+msgid "Color"
+msgstr "Kolor"
+
+msgid "Float"
+msgstr "Rozmazane"
+
+msgid "Size"
+msgstr "Wysokość"
+
+msgid "Fonts"
+msgstr "Czcionka"
+
+msgid "Reply"
+msgstr "Odpowiedz"
+
+msgid "Your message has been edited"
+msgstr "Twoja wiadmość została zmodyfikowana"
+
+msgid "You must be a member to access to this area"
+msgstr "Musisz być zarejestrowany by mieć tutaj dostęp"
+
+msgid "This thread has been locked by a moderator"
+msgstr "Ten temat został zablokowany przez moderatora"
+
+msgid "This message does not exist."
+msgstr "Ta wiadomość nie istnieje"
+
+msgid "You don't have permission to access this"
+msgstr "Nie masz tutaj dostępu"
+
+msgid "The message is missing"
+msgstr "Brakuje wiadomości"
+
+msgid "Blue"
+msgstr "Niebieski"
+
+msgid "Red"
+msgstr "Czerwony"
+
+msgid "Green"
+msgstr "Zielony"
+
+msgid "Yellow"
+msgstr "Żółty"
+
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+msgid "Purple"
+msgstr "Fioletowy"
+
+msgid "Olive"
+msgstr "Oliwkowy"
+
+msgid "Left"
+msgstr "Lewa"
+
+msgid "Right"
+msgstr "Prawa"
+
+msgid "Title 1"
+msgstr "Tytuł 1"
+
+msgid "Title 2"
+msgstr "Tytuł 2"
+
+msgid "Very huge"
+msgstr "Bardzo bardzo dużeT"
+
+msgid "Huge"
+msgstr "bardzo duże"
+
+msgid "Big"
+msgstr "Duże"
+
+msgid "Normal"
+msgstr "Normalne"
+
+msgid "Small"
+msgstr "Małe"
+
+msgid "Tiny"
+msgstr "Bardzo małe"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "You are here"
+msgstr "Jesteś tutaj"
+
+msgid "Actions"
+msgstr "Czynności"
+
+msgid "Send this member a private message"
+msgstr "Wyślij mu/jej PM"
+
+msgid "This member's profile"
+msgstr "Jego profil"
+
+msgid "Information"
+msgstr "Informacje"
+
+msgid "Content"
+msgstr "Zawartość"
+
+msgid "Nickname"
+msgstr "Pseudonim"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "Website"
+msgstr "Strona WWW"
+
+msgid "This member has not posted yet"
+msgstr "Ten użytkownik nigdy nie zamieścił żadnej wiadomości"
+
+msgid "Check if this member has 2 accounts"
+msgstr "Zobacz czy dana osoba ma podwójne konto"
+
+msgid "Check received warnings"
+msgstr "Oglądnij otrzymane ostrzeżenia"
+
+msgid "Give this member a warning"
+msgstr "Umieść ostrzezenieMettre un avertissement"
+
+msgid "Last connection"
+msgstr "Ostatnie logowanie"
+
+msgid "This member's IP"
+msgstr "Jego IP"
+
+msgid "Last topics"
+msgstr "Ostatnie tematy w których użytkownik uczestnił"
+
+msgid "Edit this member's profile"
+msgstr "Modyfikuj jego profil"
+
+msgid "The PlayOnLinux team"
+msgstr "PlayOnLinux staff"
+
+msgid "By rank"
+msgstr "Według rangi"
+
+msgid "By search"
+msgstr "Przez wyszukiwanie"
+
+msgid "This member does not want to show it"
+msgstr "Nie pokazuj tego"
+
+msgid "Edit your profile"
+msgstr "Modyfikuj Twój profil"
+
+msgid "Your profile has been edited"
+msgstr "Twój profil został zmodyfikowany"
+
+msgid "Avatar"
+msgstr "Awatar"
+
+msgid "Avatar adress"
+msgstr "Adres twojego awatara"
+
+msgid "Show your email adress"
+msgstr "Pokazuj mój adres email"
+
+msgid "Show your signature"
+msgstr "Pokaż podpis"
+
+msgid "Signature"
+msgstr "Podpis"
+
+msgid "The news"
+msgstr "Newsy"
+
+msgid "There are no comments yet. Feel free to post yours"
+msgstr "Nie ma komentarzy. Możesz jakiś dodać."
+
+msgid "Comments"
+msgstr "Komentarze"
+
+msgid "Post a comment"
+msgstr "Dodaj komentarz"
+
+msgid "The ten latest srticles"
+msgstr "Ostatnie 10 wiadomości"
+
+msgid "comment(s)"
+msgstr "komentarz(e)"
+
+msgid "Your comment has been posted. Click <a href"
+msgstr "Dodaj komentarz"
+
+msgid "Private messages"
+msgstr "Prywatne wiadomości"
+
+msgid "Your message has been successfully deleted"
+msgstr "Twoja wiadomośc została usunięta."
+
+msgid "Do you really want to delete this message?"
+msgstr "Na pewno chcesz usunąć tę wiadomość?"
+
+msgid "Your messages"
+msgstr "Twoje wiadomości"
+
+msgid "Object"
+msgstr "Obiekt"
+
+msgid "Recipient"
+msgstr "Odbiorca"
+
+msgid "Inbox"
+msgstr "Skrzynka odbiorcza"
+
+msgid "New message"
+msgstr "Nowa wiadomość"
+
+msgid "Sent messages"
+msgstr "Wysłane wiadomości"
+
+msgid "Answer"
+msgstr "Odpowiedz"
+
+msgid "Send a private message"
+msgstr "Wyślij prywatną wiadomość"
+
+msgid "Read a message"
+msgstr "Przeczytaj wiadomość"
+
+msgid "Sent"
+msgstr "Wysłane wiadomości"
+
+msgid "Choose"
+msgstr "Wybierz"
+
+msgid "Your message has been successfully sent."
+msgstr "Twoja wiadomość została wysłana"
+
+msgid "Click here to go back to the private message page."
+msgstr "kliknij tutaj żeby zostać przekierowanym."
+
