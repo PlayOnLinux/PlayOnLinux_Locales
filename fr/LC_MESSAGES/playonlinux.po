@@ -645,3 +645,156 @@ msgstr "Se désinscrire"
 
 msgid "Change title"
 msgstr "Changer le titre"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "August"
+msgstr "Aoüt"
+
+msgid "December"
+msgstr "Décembre"
+
+msgid "February"
+msgstr "Février"
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "{day} {num} {month} {year} at {time}"
+msgstr "{day} {num} {month} {year} a {time}"
+
+msgid "{day} {num} {month} {year}"
+msgstr "{day} {num} {month} {year}"
+
+msgid "Follow us"
+msgstr "Suivez-nous"
+
+msgid " people online"
+msgstr " personnes en ligne"
+
+msgid "Latest updates"
+msgstr "Dernières mises à jour"
+
+msgid "Accessories"
+msgstr "Accessoires"
+
+msgid "Development"
+msgstr "Développement"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "Games"
+msgstr "Jeux"
+
+msgid "Graphics"
+msgstr "Graphisme"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimedia"
+msgstr "Multimédia"
+
+msgid "Office"
+msgstr "Bureautique"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Patches"
+msgstr "Correctifs"
+
+msgid "Functions"
+msgstr "Fonctions"
+
+msgid "Create a new installer"
+msgstr "Créer un nouvel installateur"
+
+msgid "My unsigned installers"
+msgstr "Mes installateurs non-signés"
+
+msgid "All unsigned installers"
+msgstr "Tout les installateurs non-signés"
+
+msgid "Waiting installers"
+msgstr "Installateurs en attente"
+
+msgid "Screenshots"
+msgstr "Captures d'écran"
+
+msgid "Sign"
+msgstr "Signer"
+
+msgid "Remove signature"
+msgstr "Supprimer la signature"
+
+msgid "Source code"
+msgstr "Code source"
+
+msgid "Last changes"
+msgstr "Derniers changements"
+
+msgid "Add a screenshot"
+msgstr "Ajouter une capture d'écran"
+
+msgid "Code quality"
+msgstr "Qualité du code"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Informations"
+msgstr "Informations"
+
+msgid "{playon} installer creator:"
+msgstr "Créateur de l'installateur {playon} :"
+
+msgid "Supported platforms:"
+msgstr "Plate-formes supportées"
+
+msgid "Number of download:"
+msgstr "Nombre de téléchargements :"
+
+msgid "Install this program"
+msgstr "Installer ce programme"
