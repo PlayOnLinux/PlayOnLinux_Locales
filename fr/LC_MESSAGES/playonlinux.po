@@ -791,7 +791,7 @@ msgid "{playon} installer creator:"
 msgstr "Créateur de l'installateur {playon} :"
 
 msgid "Supported platforms:"
-msgstr "Plate-formes supportées"
+msgstr "Plate-formes supportées :"
 
 msgid "Number of download:"
 msgstr "Nombre de téléchargements :"
