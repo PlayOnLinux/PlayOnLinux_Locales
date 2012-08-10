@@ -1,0 +1,826 @@
+# Alexander Jeckmans <a.jeckmans@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-10 19:30+0200\n"
+"PO-Revision-Date: 2012-08-10 20:21+0200\n"
+"Last-Translator: Alexander Jeckmans <a.jeckmans@gmail.com>\n"
+"Language-Team: NL Translaters\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+msgid "The aim of PlayOnLinux is to make the games designed for Microsoft Windows easy to install on Linux, thanks to the famous Wine."
+msgstr ""
+"Het doel van PlayOnLinux is het eenvoudig maken van het installeren van "
+"spellen gemaakt voor Microsoft Windows op Linux gebruikmakend van het "
+"beroemde Wine."
+
+msgid "Home"
+msgstr "Thuispagina"
+
+msgid "News"
+msgstr "Nieuws"
+
+msgid "Presentation"
+msgstr "Presentatie"
+
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+msgid "The website team"
+msgstr "De website team"
+
+msgid "PlayOnLinux"
+msgstr "PlayOnLinux"
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Supported software"
+msgstr "Ondersteunde software"
+
+msgid "Send us your own script"
+msgstr "Stuur on jouw script"
+
+msgid "Community"
+msgstr "Gemeenschap"
+
+msgid "The forum"
+msgstr "Het forum"
+
+msgid "Search"
+msgstr "Zoek"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Guestbook"
+msgstr "Gastenboek"
+
+msgid "Members"
+msgstr "Leden"
+
+msgid "Log out"
+msgstr "Meld af"
+
+msgid "Log in"
+msgstr "Meld aan"
+
+msgid "Your profile"
+msgstr "Jouw profiel"
+
+msgid "Register"
+msgstr "Registreer"
+
+msgid "Your private messages"
+msgstr "Jouw privéberichten"
+
+msgid "Ads"
+msgstr "Reclame"
+
+msgid "Who is online?"
+msgstr "Wie is er online?"
+
+msgid "people online"
+msgstr "personen online"
+
+msgid "people on IRC"
+msgstr "personen op IRC"
+
+msgid "Poll"
+msgstr "Poll"
+
+msgid "Partners"
+msgstr "Partners"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Donate"
+msgstr "Doneer"
+
+msgid "PlayOn{0} - Run your Windows applications on {0} easily!"
+msgstr "PlayOn{0} - Draai eenvoudig je Windows applicaties op {0}!"
+
+msgid "Your distribution"
+msgstr "Jouw distributie"
+
+msgid "Last versions"
+msgstr "Laatste versies"
+
+msgid "Quotation"
+msgstr "Citaat"
+
+msgid "of"
+msgstr "van"
+
+msgid "Secret"
+msgstr "Geheim"
+
+msgid "You are not the owner of this message!"
+msgstr "Je bent niet de eigenaar van dit bericht!"
+
+msgid "Click here to go back to the private messages page"
+msgstr "Klik hier om terug te gaan naar de privéberichtenpagina"
+
+msgid "You are not the author of this message!"
+msgstr "Je bent niet de auteur van dit bericht!"
+
+msgid "You are not the recipient of this message"
+msgstr "Je bent niet de auteur van dit bericht!"
+
+msgid "The message selected does not exist"
+msgstr "Het geselecteerde bericht bestaat niet"
+
+msgid "Please go back"
+msgstr "Ga alstublieft terug"
+
+msgid "to the private messages page"
+msgstr "Naar de privéberichtenpagina"
+
+msgid "You must be logged in to see your private messages"
+msgstr "Je moet ingelogd zijn om je privéberichten te zien"
+
+msgid "You are not allowed to see this message!"
+msgstr "U heeft geen toestemming om dit bericht te zien."
+
+msgid "The selected message does not exist"
+msgstr "Het geselecteerde bericht bestaat niet."
+
+msgid "You must be logged in to send a private message"
+msgstr "Je moet ingelogd zijn om een privébericht te versturen"
+
+msgid "You have not filled in the blank"
+msgstr "Je hebt niet de lege vakken ingevuld"
+
+msgid "The selected recipient of the message does not exist. Please go back to the previous page"
+msgstr ""
+"De geselecteerde ontvanger van dit bericht bestaat niet. Ga alstublieft "
+"terug naar de vorige pagina"
+
+msgid "The requested topic does not exist. Please go back to the previous page."
+msgstr ""
+"Het opgevraagde topic bestaat niet. Ga alstublieft terug naar de vorige "
+"pagina."
+
+msgid "The requested topic does not exist"
+msgstr "Het opgevraagde topic bestaat niet"
+
+msgid "This topic has been locked by a moderator"
+msgstr "Dit topic is gesloten door een beheerder"
+
+msgid "You're not allowed to see this page"
+msgstr "U heeft geen toestemming om deze pagina te zien."
+
+msgid "Login"
+msgstr "Meld aan"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Remember"
+msgstr "Onthoud"
+
+msgid "Fill these blanks"
+msgstr "Vul de lege vakken in"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Enter your password again"
+msgstr "Voer jouw wachtwoord opnieuw in"
+
+msgid "Information is missing"
+msgstr "Er ontbreekt informatie"
+
+msgid "Welcome!"
+msgstr "Welkom!"
+
+msgid "The passwords don't match"
+msgstr "De wachtwoorden komen niet overeen"
+
+msgid "You are now registered"
+msgstr "Je bent nu geregistreerd"
+
+msgid "Registration for PlayOnLinux and PlayOnMac"
+msgstr "Registratiev voor PlayOnLinux en PlayOnMac"
+
+msgid "Please complete this registration form"
+msgstr "Vul alstublieft dit registratieformulier in"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "The code is not correct"
+msgstr "De code is niet correct"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Recopy"
+msgstr "Kopieer opnieuw"
+
+msgid "This login already exists"
+msgstr "Deze gebruikersnaam bestaat al"
+
+msgid "Code you received on your mailbox:"
+msgstr "De code die je hebt ontvangen in je mail:"
+
+msgid "Profiles"
+msgstr "Profielen"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Send this member a private message"
+msgstr "Stuur deze gebruiker een privébericht"
+
+msgid "This member's profile"
+msgstr "Het profiel van deze gebruiker"
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Nickname"
+msgstr "Bijnaam"
+
+msgid "Rank"
+msgstr "Rang"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "This member has not posted yet"
+msgstr "Deze gebruiker heeft nog niets geplaatst"
+
+msgid "Check if this member has 2 accounts"
+msgstr "Controleer of deze gebruiker 2 accounts heeft"
+
+msgid "Check received warnings"
+msgstr "Controleer ontvangen waarschuwingen"
+
+msgid "Give this member a warning"
+msgstr "Geef deze gebruiker een waarschuwing"
+
+msgid "Last connection"
+msgstr "Laatste verbinding"
+
+msgid "This member's IP"
+msgstr "Het IP-adres van deze gebruiker"
+
+msgid "Last topics"
+msgstr "Laatste topics"
+
+msgid "Edit this member's profile"
+msgstr "Wijzig het profiel van deze gebruiker"
+
+msgid "The PlayOnLinux team"
+msgstr "De PlayOnLinux team"
+
+msgid "By rank"
+msgstr "Op rang"
+
+msgid "Member list"
+msgstr "Gebruikerslijst"
+
+msgid "This member does not want to show it"
+msgstr "Deze gebruiker wil dit niet laten zien"
+
+msgid "Edit your profile"
+msgstr "Wijzig je profiel"
+
+msgid "Your profile has been edited"
+msgstr "Jouw profiel is aangepast"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Avatar adress"
+msgstr "Adres van de avatar"
+
+msgid "Show your email adress"
+msgstr "Toon je e-mailadres"
+
+msgid "Show your signature"
+msgstr "Toon je handte"
+
+msgid "Signature"
+msgstr "Handtekening"
+
+msgid "The news"
+msgstr "Het nieuws"
+
+msgid "There are no comments yet. Feel free to post yours"
+msgstr "Er zijn nog geen opmerkingen. Voel je vrij er een te plaatsen"
+
+msgid "Comments"
+msgstr "Opmerkingen"
+
+msgid "{n} comments"
+msgstr "{n} opmerkingen"
+
+msgid "Post a comment"
+msgstr "Plaats een opmerking"
+
+msgid "The ten latest srticles"
+msgstr "De tien laatste artikelen"
+
+msgid "Here the ten latest articles: "
+msgstr "Hier zijn de tien laatste artikelen:"
+
+msgid "Your comment has been posted. Click <a href"
+msgstr "Jouw opmerking is geplaast. Klik <a href"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "Private messages"
+msgstr "Privéberichten"
+
+msgid "Delete a message"
+msgstr "Verwijder een bericht"
+
+msgid "Your message has been successfully deleted"
+msgstr "Jouw bericht is succesvol verwijderd"
+
+msgid "Do you really want to delete this message?"
+msgstr "Wilt u dit bericht echt verwijderen?"
+
+msgid "Your messages"
+msgstr "Jouw berichten"
+
+msgid "Object"
+msgstr "Object"
+
+msgid "Recipient"
+msgstr "Ontvanger"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "You have to be logged in to see your private messages"
+msgstr "Je moet ingelogd zijn om je privéberichten te zien"
+
+msgid "Inbox"
+msgstr "Postvak IN"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "New message"
+msgstr "Nieuw bericht"
+
+msgid "Sent messages"
+msgstr "Verzonden berichten"
+
+msgid "Answer"
+msgstr "Antwoord"
+
+msgid "Send a private message"
+msgstr "Verstuur een privébericht"
+
+msgid "Read a message"
+msgstr "Lees een bericht"
+
+msgid "Sent"
+msgstr "Verzonden"
+
+msgid "Choose"
+msgstr "Kies"
+
+msgid "Your message has been successfully sent."
+msgstr "Jouw bericht is succesvol verstuurd"
+
+msgid "Click here to go back to the private message page."
+msgstr "Klik hier om terug te gaan naar de privéberichtenpagina"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "You are here"
+msgstr "Je bent hier"
+
+msgid "By"
+msgstr "Door"
+
+msgid "in"
+msgstr "in"
+
+msgid " $jour;"
+msgstr "$taal;"
+
+msgid " $mois;"
+msgstr "$maand;"
+
+msgid " at "
+msgstr " op"
+
+msgid "Previous chapter"
+msgstr "Vorig hoofdstuk"
+
+msgid "Next chapter"
+msgstr "Volgende hoofdstuk"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Forums"
+msgstr "Forums"
+
+msgid "No Messages"
+msgstr "Geen berichten"
+
+msgid "Categories"
+msgstr "Categoriën"
+
+msgid "Latest message"
+msgstr "Laatste bericht"
+
+msgid "Latest messages"
+msgstr "Laatste bericht"
+
+msgid "Topics"
+msgstr "Topics"
+
+msgid "Messages"
+msgstr "Berichten"
+
+msgid "There are no messages."
+msgstr "Er zijn geen berichten."
+
+msgid "Replies"
+msgstr "Antwoorden"
+
+msgid "Forums list"
+msgstr "Lijst van forums"
+
+msgid "jump to the page"
+msgstr "Spring naar de pagina"
+
+msgid "Topics list"
+msgstr "Lijst van onderwerpen"
+
+msgid "Quote"
+msgstr "Citeer"
+
+msgid "Edit"
+msgstr "Aanpassen"
+
+msgid "Quick reply"
+msgstr "Snel beantwoorden"
+
+msgid "Sent on"
+msgstr "Verstuurd op"
+
+msgid "Edited by"
+msgstr "Aangepast door"
+
+msgid "Send"
+msgstr "Verzenden"
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Answer to topic :"
+msgstr "Antwoord op bericht :"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Sub-title"
+msgstr "Sub-titel:"
+
+msgid "Your message has been successfully sent"
+msgstr "Jouw bericht is succesvol verstuurd"
+
+msgid "Click here to see it"
+msgstr "Klik hier om het te zien"
+
+msgid "Edit a post"
+msgstr "Een bericht bewerken"
+
+msgid "This message will be deleted forever. Are you sure?"
+msgstr "Dit bericht zal voor altijd worden verwijderd. Ben je hier zeker van?"
+
+msgid "Moderation"
+msgstr "Modereer"
+
+msgid "Automatic topic"
+msgstr "Automatisch onderwer"
+
+msgid "Set post-it on"
+msgstr "Zet post-it aan"
+
+msgid "Set post-it off"
+msgstr "Zet post-it uit"
+
+msgid "Restore"
+msgstr "Herstel"
+
+msgid "Lock"
+msgstr "Sluit"
+
+msgid "Unlock"
+msgstr "Open"
+
+msgid "Mark as solved"
+msgstr "Markeer als opgelost"
+
+msgid "Mark as unsolved"
+msgstr "Markeer als onopgelost"
+
+msgid "Move"
+msgstr "Verplaats"
+
+msgid "Title edition"
+msgstr "Titel bewerken"
+
+msgid "Topic's state successfully changed"
+msgstr "De staat van het topic is succesvol aangepast"
+
+msgid "BB Code"
+msgstr "BB Code"
+
+msgid "Smileys"
+msgstr "Smileys"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "Float"
+msgstr "Plaatsing"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Fonts"
+msgstr "Lettertypes"
+
+msgid "New topic"
+msgstr "Nieuw topic"
+
+msgid "Reply"
+msgstr "Antwoord"
+
+msgid "Your message has been edited"
+msgstr "Uw bericht is aangepast."
+
+msgid "You must be a member to access to this area"
+msgstr "Je moet lid zijn om toegang te hebben tot dit deel"
+
+msgid "This thread has been locked by a moderator"
+msgstr "Dit topic is gesloten door een beheerder"
+
+msgid "This message does not exist."
+msgstr "Dit bericht bestaat niet."
+
+msgid "You don't have permission to access this"
+msgstr "Je hebt geen toestemming om hier toegang tot te krijgen"
+
+msgid "The message is missing"
+msgstr "Dit bericht is kwijt"
+
+msgid "Blue"
+msgstr "Blauw"
+
+msgid "Red"
+msgstr "Rood"
+
+msgid "Green"
+msgstr "Groen"
+
+msgid "Yellow"
+msgstr "Geel"
+
+msgid "Orange"
+msgstr "Oranje"
+
+msgid "Purple"
+msgstr "Paars"
+
+msgid "Olive"
+msgstr "Olijfkleur"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Title 1"
+msgstr "Titel 1"
+
+msgid "Title 2"
+msgstr "Titel 2"
+
+msgid "Very huge"
+msgstr "Enorm"
+
+msgid "Huge"
+msgstr "Zeer Groot"
+
+msgid "Big"
+msgstr "Groot"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Tiny"
+msgstr "Zeer klein"
+
+msgid "Set as solved"
+msgstr "Markeer als opgelost"
+
+msgid "Set as unsolved"
+msgstr "Markeer als onopgelost"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Subscribe"
+msgstr "Registreer"
+
+msgid "Unsubscribe"
+msgstr "Meld af"
+
+msgid "Change title"
+msgstr "Titel aanpassen"
+
+msgid "April"
+msgstr "April"
+
+msgid "August"
+msgstr "Augustus"
+
+msgid "December"
+msgstr "December"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "June"
+msgstr "Juni\\"
+
+msgid "March"
+msgstr "Maart"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "November"
+msgstr "November"
+
+msgid "October"
+msgstr "October"
+
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+msgid "Wednesday"
+msgstr "Woensdag"
+
+msgid "Thursday"
+msgstr "Donderdag"
+
+msgid "Friday"
+msgstr "Vrijdag"
+
+msgid "Saturday"
+msgstr "Zaterdag"
+
+msgid "Sunday"
+msgstr "Zondag"
+
+msgid "{day} {num} {month} {year} at {time}"
+msgstr "{day} {num} {month} {year} om {time}"
+
+msgid "{day} {num} {month} {year}"
+msgstr "{day} {num} {month} {year}"
+
+msgid "Follow us"
+msgstr "Volg ons"
+
+msgid " people online"
+msgstr " personen online"
+
+msgid "Latest updates"
+msgstr "Laatste updates"
+
+msgid "Accessories"
+msgstr "Accessoires"
+
+msgid "Development"
+msgstr "Ontwikkeling"
+
+msgid "Education"
+msgstr "Educatie"
+
+msgid "Games"
+msgstr "Spellen"
+
+msgid "Graphics"
+msgstr "Grafisch"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "Office"
+msgstr "Kantoor"
+
+msgid "Other"
+msgstr "Overig"
+
+msgid "Patches"
+msgstr "Patches"
+
+msgid "Functions"
+msgstr "Functies"
+
+msgid "New installer"
+msgstr "Nieuwe installer"
+
+msgid "My unsigned installers"
+msgstr "Mijn niet-ondertekende installers"
+
+msgid "All unsigned installers"
+msgstr "Alle niet-ondertekende installers"
+
+msgid "Waiting installers"
+msgstr "Wachtende installers"
+
+msgid "Screenshots"
+msgstr "Schermafdrukken"
+
+msgid "Sign"
+msgstr "Onderteken"
+
+msgid "Remove signature"
+msgstr "Verwijder handtekening"
+
+msgid "Source code"
+msgstr "Broncode"
+
+msgid "Last changes"
+msgstr "Laatste wijzigingen"
+
+msgid "Add a screenshot"
+msgstr "Voeg een schermafdruk toe"
+
+msgid "Code quality"
+msgstr "Kwaliteit van de code"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Informations"
+msgstr "Informatie"
+
+msgid "{playon} installer creator:"
+msgstr "Maker van de {playon} installer:"
+
+msgid "Supported platforms:"
+msgstr "Ondersteunde platformen:"
+
+msgid "Number of download:"
+msgstr "Aantal downloads:"
+
+msgid "Install this program"
+msgstr "Installeer dit programma"
+
+msgid "Tools"
+msgstr "Hulpmiddelen"
