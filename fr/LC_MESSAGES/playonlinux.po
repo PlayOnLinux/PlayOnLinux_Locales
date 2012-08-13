@@ -799,6 +799,9 @@ msgstr "Nombre de téléchargements :"
 msgid "Install this program"
 msgstr "Installer ce programme"
 
+msgid "Install {0}"
+msgstr "Installer {0}"
+
 msgid "Tools"
 msgstr "Outils"
 
