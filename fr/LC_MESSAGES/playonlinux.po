@@ -1022,5 +1022,8 @@ msgstr "Cliquez ici pour voir tout les paquets wine disponibles"
 msgid "Like {0}?"
 msgstr "Vous aimez {0} ?"
 
+msgid "All distributions"
+msgstr "Toutes les distributions"
+
 msgid "You can make a donation"
 msgstr "Vous pouvez faire un don"
