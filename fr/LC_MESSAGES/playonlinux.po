@@ -1013,6 +1013,9 @@ msgstr "Les cartes AMD sont mal supportées sous Linux à cause de la qualité d
 msgid "Available Wine packages"
 msgstr "Paquets wine disponibles"
 
+msgid "Packages"
+msgstr "Paquets"
+
 msgid "Click here to see available wine packages"
 msgstr "Cliquez ici pour voir tout les paquets wine disponibles"
 
