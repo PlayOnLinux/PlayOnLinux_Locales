@@ -857,7 +857,7 @@ msgstr "Statut :"
 msgid "Priority:"
 msgstr "Priorité :"
 
-msgid "Assigned to: "
+msgid "Assigned to:"
 msgstr "Assigné à :"
 
 msgid "Last update:"
