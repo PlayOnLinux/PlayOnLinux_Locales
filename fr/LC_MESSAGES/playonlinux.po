@@ -23,7 +23,7 @@ msgid "Documentation"
 msgstr "Documentation"
 
 msgid "Downloads"
-msgstr "Télécharger"
+msgstr "Téléchargements"
 
 msgid "Supported software"
 msgstr "Logiciels supportés"
@@ -985,3 +985,39 @@ msgstr "Développeur"
 
 msgid "Banned"
 msgstr "Banni"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "PlayOnLinux mainly relies on <a href='http://www.winehq.org'>WineHQ</a> project. If you want help them and to get a professional support of wine, please consider buying <a href='http://www.codeweavers.com/'>codeweavers</a> products.</p>"
+msgstr "PlayOnLinux utilise principalement le projet <a href='http://www.winehq.org'>WineHQ</a>. Si vous voulez les aider en obtenant un support professionnel pour wine, vous pouvez envisager d'acheter un produit <a href='http://www.codeweavers.com/'>codeweavers</a>.</p>"
+
+msgid "<p>We would also like to thank <a href='http://www.scummvm.org'>ScummVM</a> and <a href='http://www.dosbox.com'>DOSBox</a> projects</p>"
+msgstr "<p>Nous aimerions aussi remercier les projets <a href='http://www.scummvm.org'>ScummVM</a> et <a href='http://www.dosbox.com'>DOSBox</a></p>"
+
+msgid "Developement version"
+msgstr "Version de développement"
+
+msgid "To get the latest developement version, open a terminal and type:"
+msgstr "Pour obtenir la version de développement, ouvrez un terminal, et tapez :"
+
+msgid "Snow Leopard and Lion"
+msgstr "Snow Leopard et Lion"
+
+msgid "AMD Graphic card users"
+msgstr "Utilisateurs de cartes graphiques AMD"
+
+msgid "AMD cards are very badly supported on Linux because of the driver's quality. Therefore, wine does not work very well with these cards, even on Mac OS X. You might want to use <a href='http://codykrieger.com/gfxCardStatus'>gfxCardStatus</a>"
+msgstr "Les cartes AMD sont mal supportées sous Linux à cause de la qualité des drivers. Par conséquent, wine ne les supporte pas très bien, même sous Mac OSX. Vous pouvez essayer <a href='http://codykrieger.com/gfxCardStatus'>gfxCardStatus</a> en cas de problème"
+
+msgid "Available Wine packages"
+msgstr "Paquets wine disponibles"
+
+msgid "Click here to see available wine packages"
+msgstr "Cliquez ici pour voir tout les paquets wine disponibles"
+
+msgid "Like {0}?"
+msgstr "Vous aimez {0} ?"
+
+msgid "You can make a donation"
+msgstr "Vous pouvez faire un don"
