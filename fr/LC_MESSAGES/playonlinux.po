@@ -946,3 +946,18 @@ msgstr "sur"
 
 msgid "Jump to the page: "
 msgstr "Aller à la page : "
+
+msgid "This content is not available in your language"
+msgstr "Ce contenu n'est pas disponible dans votre langue"
+
+msgid "Secret:"
+msgstr "Secret :"
+
+msgid "Quote from $1:"
+msgstr "Citation de $1 :"
+
+msgid "Quote:"
+msgstr "Citation :"
+
+msgid "Terminal output:"
+msgstr "Sortie de la console :"
