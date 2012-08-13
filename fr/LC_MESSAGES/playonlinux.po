@@ -961,3 +961,6 @@ msgstr "Citation :"
 
 msgid "Terminal output:"
 msgstr "Sortie de la console :"
+
+msgid "My assigned bugs"
+msgstr "Mes bugs assignés"
