@@ -964,3 +964,24 @@ msgstr "Sortie de la console :"
 
 msgid "My assigned bugs"
 msgstr "Mes bugs assignés"
+
+msgid "Some {0} installers"
+msgstr "Quelques installateurs {0}"
+
+msgid "No messages"
+msgstr "Pas de messages"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Member"
+msgstr "Membre"
+
+msgid "Moderator"
+msgstr "Modérateur"
+
+msgid "Developer"
+msgstr "Développeur"
+
+msgid "Banned"
+msgstr "Banni"
