@@ -943,3 +943,6 @@ msgstr "Urgent"
 
 msgid "on"
 msgstr "sur"
+
+msgid "Jump to the page: "
+msgstr "Aller à la page : "
