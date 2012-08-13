@@ -801,3 +801,142 @@ msgstr "Installer ce programme"
 
 msgid "Tools"
 msgstr "Outils"
+
+msgid "Advertising seems to be blocked by your browser."
+msgstr "La publicité semble être bloquée par votre navigateur."
+
+msgid "Please notice that advertising helps us to host the project.<br /><br />If you find these ads intrusive or inappropriate, please contact me."
+msgstr "La publicité nous aide à héberger le projet<br /><br />Si vous trouvez ces publicités inappropriées, n'hésitez pas à me contacter." 
+
+msgid "Quick tasks"
+msgstr "Tâches rapides"
+
+msgid "Project list"
+msgstr "Liste des projets"
+
+msgid "Report a problem"
+msgstr "Signaler un problème"
+
+msgid "Latest tickets"
+msgstr "Derniers tickets"
+
+## Here please stay as short as possible 
+
+msgid "Project"
+msgstr "Projet"
+
+msgid "Tracker"
+msgstr "Tracker"
+
+msgid "Statut"
+msgstr "Statut"
+
+msgid "Priority"
+msgstr "Priorité"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "Assigned&nbsp;to"
+msgstr "Assigné&nbsp;à"
+
+msgid "Assigned to"
+msgstr "Assigné à"
+
+msgid "Updated"
+msgstr "Mis&nbsp;à&nbsp;jour"
+
+##
+
+msgid "Statut:"
+msgstr "Statut :"
+
+msgid "Priority:"
+msgstr "Priorité :"
+
+msgid "Assigned to: "
+msgstr "Assigné à :"
+
+msgid "Last update:"
+msgstr "Dernière mise à jour :"
+
+msgid "Description, steps to reproduce:"
+msgstr "Description, étapes pour reproduire :"
+
+msgid "Description/Steps to reproduce"
+msgstr "Description/Étapes pour reproduire"
+
+msgid "Added by {user} on {date}"
+msgstr "Ajouté par {user} le {date}"
+
+msgid "Update by {user} on {date}"
+msgstr "Mise à jour par {user} le {date}"
+
+msgid "<li><b>Statut</b> changed to "
+msgstr "<li><b>Statut</b> changé vers "
+
+msgid "<li><b>Priority</b> changed to "
+msgstr "<li><b>Priorité</b> changé vers "
+
+msgid "<li><b>Subject</b> changed to "
+msgstr "<li><b>Sujet</b> changé vers "
+
+msgid "<li><b>Tracker</b> changed to "
+msgstr "<li><b>Tracker</b> changé vers "
+
+msgid "Comment or update this ticket"
+msgstr "Commenter ou mettre à jour ce ticket"
+
+msgid "Change priority"
+msgstr "Changer la priorité"
+
+msgid "Change statut"
+msgstr "Changer le statut"
+
+msgid "Change tracker"
+msgstr "Changer le tracker"
+
+msgid "Assign to"
+msgstr "Assigner à"
+
+msgid "Your commentary"
+msgstr "Votre commentaire"
+
+msgid "Show closed tickets"
+msgstr "Afficher les tickets fermés"
+
+msgid "New ticket"
+msgstr "Nouveau ticket"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Confirmed"
+msgstr "Confirmé"
+
+msgid "In progress"
+msgstr "En cours"
+
+msgid "Fixed"
+msgstr "Résolu"
+
+msgid "Won't fix"
+msgstr "Ne sera pas résolu"
+
+msgid "Invalid"
+msgstr "Invalide" 
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "High"
+msgstr "Élevé"
+
+msgid "Urgent"
+msgstr "Urgent"
+
+msgid "on"
+msgstr "sur"
