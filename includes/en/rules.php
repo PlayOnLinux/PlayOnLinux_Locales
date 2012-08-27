@@ -1,35 +1,35 @@
-<h1>Charte d'utilisation</h1>
-<h2>Piratage, sujets à caractères illégaux</h1>
-<p><?php echo $website_name; ?> est <b>contre le piratage</b>. L'utilisateur demandant de l'aide à propos d'un logiciel s'engage donc à ne pas utiliser une version piratée. Il est également interdit aux membres du site de fournir ou de demander de l'aide à propos des méthodes de contournement des protections mises en place par les éditeurs de logiciels. Il en va de même à propos des copies non-officielles de support d'installation sous forme d'images CD. Dans le cas où un logiciel nécessite le contournement de la protection mise en place par l'éditeur pour fonctionner avec <?php echo $website_name; ?>, <?php echo $website_name; ?> ne pourra en aucun cas vous fournir une quelconque aide. De plus, cette démarche sera sous votre entière responsabilité. </p>
-<p>Les autres sujets à caractère illégal (tel que la pornographie, le racisme ou la diffamation) sont également interdits</p>
+<h1>Terms of use</h1>
+<h2>Piracy, illegal cases</h1>
+<p><?php echo $website_name; ?> is <b>against piracy</b>. The user requesting help with software is committed to not use a pirated version. It is also forbidden to members of the site to provide or ask for help about how to workarounds protections implemented by the publisher. It is the same about unofficial copies of installation media as CD images. In cases where software requires the circumvention of protection established by the publisher to work with <?php echo $website_name; ?>, <?php echo $website_name; ?> will not be able in any case to provide you with assistance. In addition, this approach will be entirely your responsibility.</p>
+<p>Other illegal cases (such as pornography, racism or muckraking) are also prohibited.</p>
 
-<h2>Responsabilité</h2>
-<p>Bien que nous surveillions attentivement le contenu du site, <?php echo $website_name; ?> ne saurait être responsable en cas de dommage sur votre ordinateur lorsque-vous utilisez un contenu téléchargé sur le site internet.</p> 
+<h2>Responsibilities</h2>
+<p>Even if we monitor closely the site's content, <?php echo $website_name; ?> can not be held responsible for any damage to your computer when you use content downloaded from the website.</p> 
 
-<h2>Contenu posté</h2>
-<p>Toute personne tentant de poster du contenu malveillant sur le site (installateurs ou programmes malveillants) s'expose à un bannissement définitif et sans préavis.</p>
-<p>En postant du contenu sur le site, vous acceptez que celui-ci soit placé sous licence GPLv3, sauf mention contraire de votre part.</p>
-<p>L'équipe de <?php echo $website_name; ?> se réserve le droit de supprimer le contenu du site internet.</p>
+<h2>Posted content</h2>
+<p>Anyone attempting to post malicious content on the site (installers or malwares) is subject to a permanent ban without warning.</p>
+<p>By posting content on the website, you agree that it is licensed under the GPLv3, unless explicitly specified by you.</p>
+<p>The team of <?php echo $website_name; ?> reserves the right to do delete any content on the website.</p>
 
-<h2>Politesse, courtoisie</h2>
-<p><?php echo $website_name; ?> est un projet entièrement libre et gratuit. Il ne fonctionne que sur la base du bénévolat. Les membres de l'équipe acceptent d'aider les utilisateurs sur leur temps libre. Il est donc possible que vous n'obteniez pas toujours vos réponses immédiatement. Par conséquent, il est interdit de lancer un rappel ("up") sur un problème moins de 24 heures après l'envois du dernier message.</p>
-<p>Vous devez respecter <b>les règles élémentaires de politesse</b>. Un simple <i>bonjour</i> en début de sujet, et un <i>merci</i> nous donnera d'avantage l'envi de vous aider.</p>
-<p>Les insultes sont interdites sur le site.</p>
+<h2>Politeness, courtesy</h2>
+<p><?php echo $website_name; ?> is a free and open-source project. It works only on a voluntary basis.  The team members are willing to assist users in their free time. It is therefore possible that you do not always get your answers immediately. Therefore, it is prohibited to launch a "up" on an issue within 24 hours after sending the last message.</p>
+<p>You must respect <b>basic rules of politeness</b>. <i>"Hello"</i> at the beginning of the subject, and a <i>thank you</i> would improve our willing to help you.</p>
+<p>Insults are forbidden on the site.</p>
 
-<h2>Orthographe, langage</h2>
-<p>Afin de pouvoir être lisibles par tout le monde le plus rapidement possible, vous devez poster avec <b>une orthographe convenable</b>. En particulier, <b>les messages écris en SMS sont systématiquement supprimés.</b></p>
-<p>Il est impératif de respecter la langue du forum sur lequel vous vous trouvez. (Vous devez écrire en Français sur le forum Français, en Anglais sur le forum Anglais.)</p>
+<h2>Spelling, language</h2>
+<p>In order to be readable by everyone as quickly as possible, you must write with <b>a proper spelling</b>. Specially , <b>post written in SMS language are automatically deleted.</b></p>
+<p>It is imperative to respect the language of the forum where you are (You must write in French on the French forum, English on the English forum.).</p>
 
-<h2>Sujets à caractère polémiques</h2>
-<p>Il est fortement déconseillé de lancer des sujets à caractères polémiques sur le forum ("Trolls"). Les critiques non constructives envers un logiciel (ou une marque, catégorie de logiciels) sont également interdites. Par exemple, tout message comprenant les mots <i>"Windobe"</i> ou <i>"Micro$oft"</i> seront fermés.</p>
+<h2>Controversial topics</h2>
+<p>It is strictly forbidden to post controversy subject ("Trolls"). Meaningful criticisms against a software (or a brand, a type of software) are also prohibited. For instance, every messages including words as such as <i>"Windobe"</i> or <i>"Micro$oft"</i> will be closed.
 
-<h2>Lecture de post-it</h2>
-<p>Dans chaque forum, il existe des sujets mis en évidence, marqués avec un <b>post-it</b>. Leur lecture est obligatoire avant de poster un message dans ce forum.</p>
+<h2>Sticky post</h2>
+<p>In every forum, there are highlighted topics, marked with a <b>sticky</b>. Reading these is mandatory before posting a message in this forum.</p>
 
-<h2>Interdiction de créer plusieurs comptes</h2>
-<p>Il est interdit à un membre de créer plusieurs comptes.</h2>
+<h2>Numerous accounts</h2>
+<p>It is forbidden to a member to create more than one account.</h2>
 	
-<h2>Spam, flood publicité</h2>
-<p>Le spam, le flood et la publicité sont interdites. Le site web contient un système antispam susceptible de vous bannir si vous utilisez le site pour flooder ou pour envoyer du spam.</p>
+<h2>Spam, flood, ads</h2>
+<p>Spam, flood and ads are forbidden. The website contains an antispam system which may ban you if you use the site to flood or to spam.</p>
 
-<p>En cas de non-respect aux règles énoncées ci-dessus, <?php echo $website_name; ?> se réserve le droit de vous bannir de tout les serveurs. (Forum, chat, récupération d'installateurs depuis le logiciel)</p>
+<p>In case of non-compliance with the stated rules above, <?php echo $website_name; ?> reserves the right to ban you from every servers (Forum, chat, download of installers from the software).</p>
