@@ -1,6 +1,6 @@
 <h1>Terms of use</h1>
 <h2>Piracy, illegal cases</h1>
-<p><?php echo $website_name; ?> is <b>against piracy</b>. The user requesting help with software is committed to not use a pirated version. It is also forbidden to members of the site to provide or ask for help about how to workarounds protections implemented by the publisher. It is the same about unofficial copies of installation media as CD images. In cases where software requires the circumvention of protection established by the publisher to work with <?php echo $website_name; ?>, <?php echo $website_name; ?> will not be able in any case to provide you with assistance. In addition, this approach will be entirely your responsibility.</p>
+<p><?php echo $website_name; ?> is <b>against piracy</b>. The user requesting help with software is committed not to use a pirated version. It is also forbidden to the members to provide or ask for any help about how to workarounds protections implemented by the publisher. It is the same about unofficial copies of installation media as CD images. In cases where software requires the circumvention of protection established by the publisher to work with <?php echo $website_name; ?>, <?php echo $website_name; ?> will not be able in any case to help you. In addition, this approach will be entirely your responsibility.</p>
 <p>Other illegal cases (such as pornography, racism or muckraking) are also prohibited.</p>
 
 <h2>Responsibilities</h2>
