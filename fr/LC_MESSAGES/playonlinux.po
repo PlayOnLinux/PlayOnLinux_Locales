@@ -1027,3 +1027,21 @@ msgstr "Toutes les distributions"
 
 msgid "You can make a donation"
 msgstr "Vous pouvez faire un don"
+
+msgid "Terms of use"
+msgstr "Charte d'utilisation"
+
+msgid "Sign the terms of use"
+msgstr "Signer la charte d'utilisation"
+
+msgid "I have read, I understand, and I accept the terms of use"
+msgstr "J'ai lu, j'ai compris, et j'accepte la charte d'utilisation"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "Thank you. You have now access to every services"
+msgstr "Merci. Vous pouvez maintenant accéder à tout les services"
+
+msgid "You must accept the terms of use"
+msgstr "Vous devez accepter la charte d'utilisation"
