@@ -23,8 +23,11 @@
 <h2>Sujets à caractère polémiques</h2>
 <p>Il est fortement déconseillé de lancer des sujets à caractères polémiques sur le forum ("Trolls"). Les critiques non constructives envers un logiciel (ou une marque, catégorie de logiciels) sont également interdites. Par exemple, tout message comprenant les mots <i>"Windobe"</i> ou <i>"Micro$oft"</i> seront fermés.</p>
 
-<h2>Lecture de post-it</h2>
+<h2>Avant de poster</h2>
+<p>Assurez-vous de poster dans le bon forum</p>
 <p>Dans chaque forum, il existe des sujets mis en évidence, marqués avec un <b>post-it</b>. Leur lecture est obligatoire avant de poster un message dans ce forum.</p>
+<p>Vous devez <b>impérativement</b> faire une recherche avant de demander de l'aide. Il faut par exemple vous assurer qu'<b>aucun</b> n'autre sujet du forum ne parle du problème</p> 
+<p>Vous ne devez pas poster une réponse hors-sujet sur un topic</p>
 
 <h2>Interdiction de créer plusieurs comptes</h2>
 <p>Il est interdit à un membre de créer plusieurs comptes.</h2>
@@ -32,4 +35,4 @@
 <h2>Spam, flood publicité</h2>
 <p>Le spam, le flood et la publicité sont interdites. Le site web contient un système antispam susceptible de vous bannir si vous utilisez le site pour flooder ou pour envoyer du spam.</p>
 
-<p>En cas de non-respect aux règles énoncées ci-dessus, <?php echo $website_name; ?> se réserve le droit de vous bannir de tout les serveurs. (Forum, chat, récupération d'installateurs depuis le logiciel)</p>
+<p>En cas de non-respect aux règles énoncées ci-dessus, <?php echo $website_name; ?> se réserve le droit de vous bannir temporairement ou définitivement de tout les serveurs. (Forum, chat, récupération d'installateurs depuis le logiciel)</p>
