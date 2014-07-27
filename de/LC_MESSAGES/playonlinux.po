@@ -8,10 +8,10 @@ msgid "Secret"
 msgstr "Geheimnis"
 
 msgid "The aim of PlayOnLinux is to make the games designed for Microsoft Windows easy to install on Linux, thanks to the famous Wine."
-msgstr "Das Ziel von PlayOnLinux ist es, Spiele für Microsoft Windows einfach installierbar zu machen, welche für Linux konzipiert worden, dank dem berühmten Wine."
+msgstr "Das Ziel von PlayOnLinux ist es, Spiele für Microsoft Windows einfach unter Linux installieren zu können, dank dem berühmten Wine."
 
 msgid "Home"
-msgstr "Home"
+msgstr "Startseite"
 
 msgid "News"
 msgstr "Neuigkeiten"
@@ -81,7 +81,7 @@ msgstr "Leute online"
 
 
 msgid "Poll"
-msgstr "Wahl"
+msgstr "Abstimmung"
 
 msgid "Partners"
 msgstr "Partner"
@@ -91,7 +91,7 @@ msgstr "Sprache"
 
 
 msgid "PlayOnLinux - Run your Windows applications on Linux easily!"
-msgstr "PlayOnLinux - Führe Windows Programme einfach auf Linux aus!"
+msgstr "PlayOnLinux - Führe Windows Programme einfach unter Linux aus!"
 
 
 msgid "Your distribution"
@@ -101,13 +101,13 @@ msgid "Last versions"
 msgstr "Aktuelle Version"
 
 msgid "You are not the owner of this message!"
-msgstr "Du bist nicht der Besitzer der Nachricht!"
+msgstr "Du bist nicht der Besitzer dieser Nachricht!"
 
 msgid "Click here to go back to the private messages page"
 msgstr "KLicke hier um zurück zur Nachrichtenseite zu gelangen"
 
 msgid "You are not the author of this message!"
-msgstr "Du bist der nicht der Author der Nachricht!"
+msgstr "Du bist der nicht der Author dieser Nachricht!"
 
 msgid "You are not the recipient of this message"
 msgstr "Du bist der nicht der Empfänger der Nachricht"
@@ -125,16 +125,16 @@ msgid "You must be logged in to see your private messages"
 msgstr "Du musst eingeloggt sein, um deine privaten Nachrichten sehen zu können"
 
 msgid "You are not allowed to see this message!"
-msgstr "Es wird dir nicht erlaubt diese Nachricht zu sehen!"
+msgstr "Du bist nicht dazu berechtigt, diese Nachricht zu sehen!"
 
 msgid "The selected message does not exist"
 msgstr "Die ausgewähle Nachricht existiert nicht"
 
 msgid "You must be logged in to send a private message"
-msgstr "Du musst eingeloggt sein um eine private Nachricht verschicken zu können"
+msgstr "Du musst eingeloggt sein, um eine private Nachricht senden zu können"
 
 msgid "You have not filled in the blank"
-msgstr "Du hast nicht den Leerfelder ausgefüllt"
+msgstr "Du hast das Feld nicht ausgefüllt"
 
 msgid "The selected recipient of the message does not exist. Please go back to the previous page"
 msgstr "Der ausgewählte Empfänger der Nachricht ist nicht vorhanden. Bitte gehe zurück zur vorherigen Seite"
@@ -168,7 +168,7 @@ msgstr "Letzte Nachrichten"
 
 
 msgid "Topics"
-msgstr "Thema"
+msgstr "Themen"
 
 msgid "Messages"
 msgstr "Nachrichten"
@@ -207,14 +207,14 @@ msgid "Quick reply"
 msgstr "Schnellantwort"
 
 msgid "Sent on"
-msgstr "Versendet an"
+msgstr "Gesendet am"
 
 
 msgid "Edited by"
-msgstr "Editiert von:"
+msgstr "Editiert von"
 
 msgid "Send"
-msgstr "Verschickt"
+msgstr "Senden"
 
 msgid "Preview"
 msgstr "Vorschau"
@@ -224,13 +224,13 @@ msgid "Message"
 msgstr "Nachricht"
 
 msgid "Answer to topic :"
-msgstr "Antwort an Thema :"
+msgstr "Thema beantworten :"
 
 msgid "Sub-title"
 msgstr "Untertitel"
 
 msgid "Your message has been successfully sent"
-msgstr "Deine Nachricht worden erfolgreich verschickt"
+msgstr "Deine Nachricht wurde erfolgreich gesendet"
 
 msgid "Edit a post"
 msgstr "Editiere einen Post"
@@ -374,7 +374,7 @@ msgid "Small"
 msgstr "Klein"
 
 msgid "Tiny"
-msgstr "Klein"
+msgstr "Winzig"
 
 msgid "Yes"
 msgstr "Ja"
@@ -405,7 +405,7 @@ msgid "Fill these blanks"
 msgstr "Fülle diese Leerfelder aus"
 
 msgid "Enter your password again"
-msgstr "Gib Passwort erneut ein"
+msgstr "Gib dein Passwort erneut ein"
 
 msgid "Register"
 msgstr "Registrieren"
@@ -423,7 +423,7 @@ msgid "You are now registered"
 msgstr "Du bist nun registriert"
 
 msgid "Registration for PlayOnLinux and PlayOnMac"
-msgstr "Registrierung für PlayOnLinux and PlayOnMac"
+msgstr "Registrierung für PlayOnLinux und PlayOnMac"
 
 msgid "Please complete this registration form"
 msgstr "Bitte fülle dieses Anmeldeformular aus"
@@ -444,16 +444,16 @@ msgid "This login already exists"
 msgstr "Dieser Login existiert bereits"
 
 msgid "Code you received on your mailbox:"
-msgstr "Code, den du auf deine Mailbox erhältst:"
+msgstr "Code aus deinem Posteingang:"
 
 msgid "Profiles"
-msgstr "Profil"
+msgstr "Profile"
 
 msgid "Actions"
 msgstr "Aktionen"
 
 msgid "Send this member a private message"
-msgstr "Schicke diesem Mitglied eine private Nachricht"
+msgstr "Schreibe diesem Mitglied eine private Nachricht"
 
 msgid "This member's profile"
 msgstr "Mitgliedsprofil"
@@ -480,10 +480,10 @@ msgid "Check if this member has 2 accounts"
 msgstr "Prüfen, ob diese Mitglied über 2 Konten verfügt"
 
 msgid "Check received warnings"
-msgstr "Überprüfe erhaltene Warnungen"
+msgstr "Überprüfe erhaltene Verwarnungen"
 
 msgid "Give this member a warning"
-msgstr "Geben diesem Mitglied eine Warnung"
+msgstr "Geben diesem Mitglied eine Verwarnung"
 
 msgid "Last connection"
 msgstr "Letzte Verbindung"
@@ -492,16 +492,16 @@ msgid "This member's IP"
 msgstr "IP des Mitglieds"
 
 msgid "Last topics"
-msgstr "Aktuelles Theme"
+msgstr "Aktuelles Thema"
 
 msgid "Edit this member's profile"
 msgstr "Editiere Mitgliedsprofil"
 
 msgid "The PlayOnLinux team"
-msgstr "Das PlayOnLinux tTam"
+msgstr "Das PlayOnLinux Team"
 
 msgid "By rank"
-msgstr "Nach Rank"
+msgstr "Nach Rang"
 
 msgid "By search"
 msgstr "Nach Suche"
@@ -510,10 +510,10 @@ msgid "Search"
 msgstr "Suchen"
 
 msgid "This member does not want to show it"
-msgstr "Dieses Mitglied hat keine Lust, es zu zeigen"
+msgstr "Dieses Mitglied will das nicht zeigen"
 
 msgid "Edit your profile"
-msgstr "Editiere Profil"
+msgstr "Editiere dein Profil"
 
 msgid "Your profile has been edited"
 msgstr "Dein Profil wurde editiert"
@@ -522,7 +522,7 @@ msgid "Avatar"
 msgstr "Avatar"
 
 msgid "Avatar adress"
-msgstr "Avatar adress"
+msgstr "Avatar Adresse"
 
 msgid "Show your email adress"
 msgstr "Zeige deine E-Mail Adresse"
@@ -537,16 +537,16 @@ msgid "The news"
 msgstr "Die Neuigkeiten"
 
 msgid "There are no comments yet. Feel free to post yours"
-msgstr "Es gibt noch keine Kommentare. Fühle dich frei, einen zu schreiben"
+msgstr "Es gibt noch keine Kommentare. Es steht dir frei, selbst einen zu schreiben"
 
 msgid "Comments"
-msgstr "Kommentar"
+msgstr "Kommentare"
 
 msgid "Post a comment"
 msgstr "Schreibe einen Kommentar"
 
-msgid "The ten latest srticles"
-msgstr "Las diez ultimas noticias"
+msgid "The ten latest articles"
+msgstr "Die zehn letzten Artikel"
 
 msgid "comment(s)"
 msgstr "Kommentar(e)"
@@ -562,7 +562,7 @@ msgid "Your message has been successfully deleted"
 msgstr "Deine Nachricht wurde erfolgreich gelöscht"
 
 msgid "Do you really want to delete this message?"
-msgstr "Willst du wirklich diese Nachricht löschen?"
+msgstr "Willst du diese Nachricht wirklich löschen?"
 
 msgid "Your messages"
 msgstr "Deine Nachrichten"
@@ -572,7 +572,7 @@ msgstr "Objekt"
 
 
 msgid "You have to be logged in to see your private messages"
-msgstr "Du musst eingeloggt sein, um private Nachrichten zu sehen"
+msgstr "Du musst eingeloggt sein, um deine private Nachrichten zu sehen"
 
 msgid "Inbox"
 msgstr "Posteingang"
@@ -581,25 +581,25 @@ msgid "New message"
 msgstr "Neue Nachricht"
 
 msgid "Sent messages"
-msgstr "Verschickte Nachrichten"
+msgstr "Gesendete Nachrichten"
 
 msgid "Answer"
 msgstr "Antwort"
 
 msgid "Send a private message"
-msgstr "Enviar un mensaje privado"
+msgstr "Schreibe eine private Nachricht"
 
 msgid "Read a message"
 msgstr "Lese eine Nachricht"
 
 msgid "Sent"
-msgstr "Verschickt"
+msgstr "Gesendet"
 
 msgid "Choose"
 msgstr "Wähle"
 
 msgid "Your message has been successfully sent."
-msgstr "Deine Nachricht wurde erfolgreich verschickt."
+msgstr "Deine Nachricht wurde erfolgreich gesendet."
 
 msgid "Click here to go back to the private message page."
 msgstr "Klicke hier, um zurück zu der Nachricht zu gelangen."
