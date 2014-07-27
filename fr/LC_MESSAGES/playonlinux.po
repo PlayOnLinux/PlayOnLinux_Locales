@@ -425,7 +425,7 @@ msgid "No Messages"
 msgstr "Pas de messages"
 
 msgid "Categories"
-msgstr "Catégorie"
+msgstr "Catégories"
 
 msgid "Latest message"
 msgstr "Derniers messages"
@@ -443,12 +443,12 @@ msgid "There are no messages."
 msgstr "Pas de messages"
 
 msgid "Replies"
-msgstr "Posts"
+msgstr "Réponses"
 
 msgid "Forums list"
 msgstr "Liste des forums"
 
-msgid "jump to the page"
+msgid "Jump to the page"
 msgstr "Allez à la page"
 
 msgid "Topics list"
@@ -966,7 +966,7 @@ msgid "My assigned bugs"
 msgstr "Mes bugs assignés"
 
 msgid "Some {0} installers"
-msgstr "Quelques installateurs {0}"
+msgstr "Installateurs {0}"
 
 msgid "No messages"
 msgstr "Pas de messages"
@@ -1045,3 +1045,105 @@ msgstr "Merci. Vous pouvez maintenant accéder à tout les services"
 
 msgid "You must accept the terms of use"
 msgstr "Vous devez accepter la charte d'utilisation"
+
+msgid "Change your password"
+msgstr "Changer de mot de passe"
+
+msgid "Contribute"
+msgstr "Contribuer"
+
+msgid "Creator"
+msgstr "Créateur"
+
+msgid "Add a program"
+msgstr "Ajouter un programme"
+
+msgid "Forgotten password"
+msgstr "Mot de passé oublié"
+
+msgid "Try this update"
+msgstr "Essayer ce patch"
+
+msgid "New source code"
+msgstr "Nouveau code source"
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "This installer has been approved by the team."
+msgstr "Cet installateur a été accepté par l'équipe."
+
+msgid "Platforms:"
+msgstr "Plate-formes :"
+
+msgid "Downloads:"
+msgstr "Téléchargements :"
+
+msgid "Feedbacks"
+msgstr "Retours d'expérience"
+
+msgid "I want to give a feedback"
+msgstr "Je veux donner mon retour d'expérience"
+
+msgid "Your feedback"
+msgstr "Votre retour d'expérience"
+
+msgid "Optional message"
+msgstr "Message facultatif"
+
+msgid "This program runs well"
+msgstr "Ce programme fonctionne"
+
+msgid "This program does not run well"
+msgstr "Ce programme ne fonctionne pas"
+
+msgid "I want to submit an improvement"
+msgstr "Je veux envoyer une amélioration"
+
+msgid "You can modify the following code to improve it"
+msgstr "Vous pouvez modifier le code ci-dessous pour l'améliorer"
+
+msgid "Warning"
+msgstr "Attention"
+
+msgid "This update has not been approved yet by the team.<br />Use it at your own risk"
+msgstr "Cette mise à jour n'a pas été approuvée par l'équipe.<br />Utilisez-la à vos risques et périls"
+
+msgid "This update has been approved by the team."
+msgstr "Cette mise à jour a été acceptée par l'équipe"
+
+msgid "Updates and comments"
+msgstr "Mises à jour et commentaires"
+
+msgid "Only updates"
+msgstr "Mises à jour seulement"
+
+msgid "Only comments"
+msgstr "Commentaires seulement"
+
+msgid "All languages"
+msgstr "Toutes les langues"
+
+msgid "Only my language"
+msgstr "Seulement ma langue"
+
+msgid "See profile"
+msgstr "Voir le profil"
+
+msgid "Staff description"
+msgstr "Rôle dans l'équipe"
+
+msgid "Download PlayOnMac"
+msgstr "Télécharger PlayOnMac"
+
+msgid "Suggest a news story"
+msgstr "Suggérer une news"
+
+msgid "Press and conferences"
+msgstr "Presse et conférences"
+
+msgid "Did you now?"
+msgstr "Le saviez-vous ?"
+
+msgid "This program also exists on {0}."
+msgstr "Ce logiciel existe aussi pour {0}."

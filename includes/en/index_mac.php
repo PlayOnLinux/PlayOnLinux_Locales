@@ -1,51 +1,114 @@
-<h1>Accueil</h1>
-<div class="presentation_item" onclick="pres_show(1)"><img src="<?php echo $url; ?>/images/logos/logo48.png" alt="PlayOnMac" /><span class="title">I'd like to learn more about PlayOnMac</span><span class="description">What is PlayOnMac ?</span></div>
-<div id="pres_item1" class="presentation_item_hidden">
-   <h2>What is PlayOnMac ?</h2>
-   <p>PlayOnMac is like wineskin, winebottler or crossover a piece of sofware which allows you <b>to easily install and use</b> numerous <b>games and softwares designed to run with Microsoft&reg;'s Windows&reg;</b>.</p>
-   <h2>What are PlayOnMac's features?</h2>
-   <p>Here is a non-exhaustive list of the interesting points to know:</p>
+<h1>What is PlayOnMac?</h1>
+   <p><b>PlayOnMac</b> is a free piece of sofware which allows you <b>to easily install and use</b> numerous <b>games and softwares</b> designed to run with <b>Microsoft&reg;'s Windows&reg;</b>..</p>
 
-	<ul>
-   <li>You don't have to own a Windows&reg; license to use PlayOnMac.</li>
-   <li>PlayOnMac is based on Wine, and so profits from all its possibilities yet it keeps the user away from its complexity while exploiting some of its advanced functions.</li>
-   <li>PlayOnMac is a free software.</li>
-   <li>PlayOnMac uses Bash and Python</li>
-	</ul>
-   <p>Nevertheless, PlayOnMac has some defects, as every piece of software:</p>
-	<ul>
-   <li>Not all games are supported. Nevertheless, you can use our manual installation module.</li>
-	</ul>
+	<!--
+	<?php
+	include($racine."/script_files/version_mac.php");
+	?>-->
+	<div style='float:left;width:50%;text-align:center'><img src='http://www.playonlinux.com/images/pom_banniere.png' alt='banniere' style='width:95%'/></div>
+	<div style='float:left;width:50%;text-align:center;padding-top:50px'><div><a class='pol_script btn btn-default' href="http://repository.playonmac.com/PlayOnMac/PlayOnMac_<?php echo $version; ?>.dmg"><i class='fa fa-download'></i> <?php echo T_("Download PlayOnMac"); ?></a></div><div style='padding-top:5px;color:#666666;font-size:12px'>Version <?php echo $version; ?> &nbsp;&#8226;&nbsp; <?php echo round(filesize("script_files/PlayOnMac/PlayOnMac_".$version.".dmg")/1024/1024, 0); ?>MB</div></div>
+	<div class='grandespace'></div>
+	
+<h1>Why using PlayOnMac rather than another solution?</h1>
+	<p>There are many other ways to run Windows program on a Mac. Here is a comparative table to understand the advantages of our solution.</p>
+	<div class='grandespace'></div>
 
-<h2>A few screenshots of PlayOnMac</h2>
-<p>
-<?php
-for($i = 0; $i < 7; $i++)
-{
-	?><a href="<?php echo $url; ?>/images/presentation_mac/capture<?php echo $i+1; ?>.fr.png" title="PlayOnMac" class="lightbox"><img src="<?php echo $url; ?>/images/presentation_mac/min/capture<?php echo $i+1; ?>.fr.png" alt="" /></a>&nbsp;&nbsp;<?php
-}
-?>
-</p>
+	<table class='table table-hover compare'>
+		<thead>
+			<tr>
+				<th class='element'></th>
+				<th>PlayOnMac<br /><span class='explain'>&nbsp;</span></th>
+				<th>Bootcamp<br /><span class='explain'>&nbsp;</span></th>
+				<th>Virtual machines<br /><span class='explain'>(Parallels, VMWare Fusion)</span></th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td class='element'>Price <i class='fa fa-dollar'></i></td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Free</td>
+			<td>About 200$ <br /><span class='explain'>Licence Windows</span></td>
+			<td>Between 200 et 300$ <br /><span class='explain'>Ensemble des licences</span></td>
+		</tr>
+		<tr>
+			<td class='element'>Windows licence <i class='fa fa-windows'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Useless</td>
+			<td>Compulsory</td>
+			<td>Compulsory</td>
+		</tr>
+		<tr>
+			<td class='element'>User friendliness <i class='fa fa-smile-o'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Very simple*</td>
+			<td>Somehow complex</td>
+			<td>Rather simple</td>
+		</tr>
+		<tr>
+			<td class='element'>Degradation of performance <i class='fa fa-tachometer'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> No*</td>
+			<td class='success-inside'><i class='fa fa-check green'></i> No</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td class='element'>Compatility <i class='fa fa-puzzle-piece'></i> </td>
+			<td>Partial</td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Optimal</td>
+			<td>Partial</td>
+		</tr>
+		<tr>
+			<td class='element'>Integration with OS X <i class='fa fa-apple'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Good</td>
+			<td>Medium</td>
+			<td>Bad</td>
+		</tr>
+		<tr>
+			<td class='element'>Reboot required <i class='fa fa-power-off'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> No</td>
+			<td>Yes</td>
+			<td class='success-inside'><i class='fa fa-check green'></i> No</td>
+		</tr>
+		</tbody>
+	</table>
+	<p class='detail'>* Providing that the program is supported.</p>
+
+<div class='grandespace'></div>
+
+<h1>Some screenshot of PlayOnMac</h1>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/1167.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/1167.jpg" alt='Miniature' /></a>
+<span class='caption'>Star Wars: The Old Republic</span>
 </div>
-<div class="presentation_item" onclick="pres_show(2)"><img src="<?php echo $url; ?>/images/design/icone2.png" alt="PlayOnMac" /><span class="title">I'd like to download PlayOnMac</span><span class="description">Latest version : <?php include($racine."/script_files/version_mac.php"); ?></span></div>
-<div id="pres_item2" class="presentation_item_hidden">
-<h2>Download PlayOnMac</h2>
-<p>The latest version of PlayOnMac is : <?php echo $version; ?><br />To get this version, go on the <a href='<?php echo $prefixe; ?>/download.html'>download page</a></p>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/312.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/312.jpg" alt='Miniature' /></a>
+<span class='caption'>Trackmania Nation Forever</span>
 </div>
-<div class="presentation_item" onclick="pres_show(3)"><img src="<?php echo $url; ?>/images/design/icone3.png" alt="PlayOnMac" /><span class="title">I'd like to learn how to use PlayOnMac</span><span class="description">Where can I get help?</span></div>
-<div id="pres_item3" class="presentation_item_hidden"><h2>Learn how to use PlayOnMac</h2>
-<p>You can read the <a href="<?php echo $page_doc; ?>">documentation</a> or ask for help on the <a href="<?php echo $prefixe; ?>/forums.html">forums</a></p></div>
-<div class="presentation_item" onclick="pres_show(4)" id="presentation4"><img src="<?php echo $url; ?>/images/design/icone4.png" alt="PlayOnMac" /><span class="title">I'd like to help PlayOnMac</span><span class="description">What can I do to help PlayOnMac's team ?</span></div>
-<div id="pres_item4" class="presentation_item_hidden"><h2>Help the projet</h2>
-<p>There are many ways by which you can hep the team. You can :</p>
-<ul>
-<li>Write some news and send them to the newsers or the administrators</li>
-<li>Help the other users on the <a href="<?php echo $prefixe; ?>/forums.html">forums</a></li>
-<li>Send your installation script</li>
-</ul>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/65.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/65.jpg" alt='Miniature' /></a>
+<span class='caption'>Photofiltre</span>
 </div>
-<div class="presentation_item no_bottom" onclick="pres_show(5)" id="presentation5"><img src="<?php echo $url; ?>/images/design/icone5.png" alt="PlayOnMac" /><span class="title">I'd like to read the latest news</span><span class="description">The ten latest news</span></div>
-<div id="pres_item5" class="presentation_item_hidden no_bottom">
-<?php afficher_10_last($lng,"playonmac"); ?>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/tuto_swtor_mac/4.jpg
+' class='lightbox'><img src="http://www.playonmac.com/images/tuto_swtor_mac/4.jpg
+" alt='Miniature' /></a>
+<span class='caption'>Main screen</span>
 </div>
+
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/tuto_swtor_mac/5.jpg
+' class='lightbox'><img src="http://www.playonmac.com/images/tuto_swtor_mac/5.jpg
+" alt='Miniature' /></a>
+<span class='caption'>Supported software</span>
+</div>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/6.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/6.jpg" alt='Miniature' /></a>
+<span class='caption'>Internet Explorer 8</span>
+</div>
+
 <div class="espace"></div>
+
+
+

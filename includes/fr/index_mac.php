@@ -1,52 +1,111 @@
-<h1>Accueil</h1>
-<div class="presentation_item" onclick="pres_show(1)"><img src="<?php echo $url; ?>/images/logos/logo48.png" alt="PlayOnMac" /><span class="title">J'aimerais en savoir plus sur PlayOnMac</span><span class="description">Qu'est-ce que PlayOnMac ?</span></div>
-<div id="pres_item1" class="presentation_item_hidden">
-<h2>Qu'est-ce que PlayOnMac ?</h2>
-   <p>PlayOnMac est, comme wineskin, crossover ou winebottler, un logiciel vous permettant <b>d'installer et d'utiliser facilement</b> de nombreux <b>jeux et logiciels prévus pour fonctionner exclusivement sous Windows&reg; de Microsoft&reg;</b>.</p>
-<h2>Quelles sont les caractéristiques de PlayOnMac ?</h2>
-   <p>Voici une liste, non exaustive, des points intéressants à connaître :</p>
-	<ul>
-   <li>Il n'est pas nécessaire de posséder une licence du système Windows&reg; pour utiliser PlayOnMac.</li>
-   <li>PlayOnMac est simple d'utilisation</li>
-   <li>PlayOnMac se base sur le logiciel Wine, et profite de toutes ses possibilités, tout en évitant à l'utilisateur d'appréhender sa complexité et en exploitant certaines de ses fonctions avancées.</li>
-   <li>PlayOnMac est un logiciel libre et gratuit.</li>
-   <li>PlayOnMac est écrit en bash Bash et en Python</li>
-	</ul>
-   <p>PlayOnMac présente néanmoins, comme tout logiciel, quelques inconvénients :</p>
-	<ul>
-   <li>Toutes les applications ne sont pas supportées. Vous pouvez néanmoins utiliser notre module d'installation manuelle.</li>
-	</ul>
+<h1>Qu'est-ce que PlayOnMac ?</h1>
+   <p><b>PlayOnMac</b> est un logiciel <b>gratuit</b> et <b>libre</b> vous permettant <b>d'installer et d'utiliser facilement</b> de nombreux <b>jeux et logiciels</b> prévus pour fonctionner exclusivement sous <b>Windows&reg; de Microsoft&reg;</b>.</p>
 
-<h2>Quelques captures d'écran de PlayOnMac</h2>
-<p>
-<?php
-for($i = 0; $i < 7; $i++)
-{
-	?><a href="<?php echo $url; ?>/images/presentation_mac/capture<?php echo $i+1; ?>.fr.png" title="PlayOnMac" class="lightbox"><img src="<?php echo $url; ?>/images/presentation_mac/min/capture<?php echo $i+1; ?>.fr.png" alt="" /></a>&nbsp;&nbsp;<?php
-}
-?>
-</p>
+	<!--
+	<?php
+	include($racine."/script_files/version_mac.php");
+	?>-->
+	<div style='float:left;width:50%;text-align:center'><img src='http://www.playonlinux.com/images/pom_banniere.png' alt='banniere' style='width:95%'/></div>
+	<div style='float:left;width:50%;text-align:center;padding-top:50px'><div><a class='pol_script btn btn-default' href="http://repository.playonmac.com/PlayOnMac/PlayOnMac_<?php echo $version; ?>.dmg"><i class='fa fa-download'></i> <?php echo T_("Download PlayOnMac"); ?></a></div><div style='padding-top:5px;color:#666666;font-size:12px'>Version <?php echo $version; ?> &nbsp;&#8226;&nbsp; <?php echo round(filesize("script_files/PlayOnMac/PlayOnMac_".$version.".dmg")/1024/1024, 0); ?>MB</div></div>
+	<div class='grandespace'></div>
+	
+<h1>Pourquoi utiliser PlayOnMac plutôt qu'une autre solution ?</h1>
+	<p>Il existe aujourd'hui de nombreuses façons pour faire fonctionner vos logiciels Windows sur Mac. Voici un tableau comparatif qui vous permettra de comprendre l'intérêt de notre solution.</p>
+	<div class='grandespace'></div>
+
+	<table class='table table-hover compare'>
+		<thead>
+			<tr>
+				<th class='element'></th>
+				<th>PlayOnMac<br /><span class='explain'>&nbsp;</span></th>
+				<th>Bootcamp<br /><span class='explain'>&nbsp;</span></th>
+				<th>Machines virtuelles<br /><span class='explain'>(Parallels, VMWare Fusion)</span></th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td class='element'>Prix <i class='fa fa-dollar'></i></td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Gratuit</td>
+			<td>Environ 200 € <br /><span class='explain'>Licence Windows</span></td>
+			<td>Entre 200 et 300 € <br /><span class='explain'>Ensemble des licences</span></td>
+		</tr>
+		<tr>
+			<td class='element'>Licence Windows <i class='fa fa-windows'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Inutile</td>
+			<td>Obligatoire</td>
+			<td>Obligatoire</td>
+		</tr>
+		<tr>
+			<td class='element'>Simplicité d'installation <i class='fa fa-smile-o'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Très simple *</td>
+			<td>Plutôt complexe</td>
+			<td>Assez simple</td>
+		</tr>
+		<tr>
+			<td class='element'>Perte de performance<i class='fa fa-tachometer'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Non *</td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Non</td>
+			<td>Oui</td>
+		</tr>
+		<tr>
+			<td class='element'>Compatibilité <i class='fa fa-puzzle-piece'></i> </td>
+			<td>Partielle</td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Optimale</td>
+			<td>Partielle</td>
+		</tr>
+		<tr>
+			<td class='element'>Bonne intégration avec OS X <i class='fa fa-apple'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Oui</td>
+			<td>Mauvaise</td>
+			<td>Moyenne</td>
+		</tr>
+		<tr>
+			<td class='element'>Redémarrage requis <i class='fa fa-power-off'></i> </td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Non</td>
+			<td>Oui</td>
+			<td class='success-inside'><i class='fa fa-check green'></i> Non</td>
+		</tr>
+		</tbody>
+	</table>
+	<p class='detail'>* À condition que l'application soit bien supportée.</p>
+
+<div class='grandespace'></div>
+
+<h1>Quelques captures d'écran de PlayOnMac</h1>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/1167.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/1167.jpg" alt='Miniature' /></a>
+<span class='caption'>Star Wars: The Old Republic</span>
 </div>
-<div class="presentation_item" onclick="pres_show(2)"><img src="<?php echo $url; ?>/images/design/icone2.png" alt="PlayOnMac" /><span class="title">J'aimerais télécharger PlayOnMac</span><span class="description">Dernière version : <?php include($racine."/script_files/version_mac.php"); ?></span></div>
-<div id="pres_item2" class="presentation_item_hidden">
-<h2>Télécharger PlayOnMac</h2>
-<p>La dernière version de PlayOnMac est <?php echo $version; ?><br />Pour obtenir cette version, rendez vous sur <a href='<?php echo $prefixe; ?>/download.html'>la page de téléchargement</a></p>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/312.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/312.jpg" alt='Miniature' /></a>
+<span class='caption'>Trackmania Nation Forever</span>
 </div>
-<div class="presentation_item" onclick="pres_show(3)"><img src="<?php echo $url; ?>/images/design/icone3.png" alt="PlayOnMac" /><span class="title">J'aimerais apprendre à utiliser PlayOnMac</span><span class="description">Comment puis-je me documenter ?</span></div>
-<div id="pres_item3" class="presentation_item_hidden"><h2>Apprendre à utiliser PlayOnMac</h2>
-<p>Vous pouvez aller lire la <a href="<?php echo $page_doc; ?>">documentation</a> ou demander de l'aide sur les <a href="<?php echo $prefixe; ?>/forums.html">forums</a></p></div>
-<div class="presentation_item" onclick="pres_show(4)" id="presentation4"><img src="<?php echo $url; ?>/images/design/icone4.png" alt="PlayOnMac" /><span class="title">J'aimerais aider le projet PlayOnMac</span><span class="description">Que puis-je faire pour aider
- l'équipe du projet ?</span></div>
-<div id="pres_item4" class="presentation_item_hidden"><h2>Participer au projet</h2>
-<p>Il existe plein de façon d'aider le projet. Vous pouvez :</p>
-<ul>
-<li>Proposer des news en contactant par message privé les newseurs ou les administrateurs</li>
-<li>Aider les utilisateurs sur les <a href="<?php echo $prefixe; ?>/forums.html">forums</a></li>
-<li>Proposer vos scripts d'installation</li>
-</ul>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/65.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/65.jpg" alt='Miniature' /></a>
+<span class='caption'>Photofiltre</span>
 </div>
-<div class="presentation_item no_bottom" onclick="pres_show(5)" id="presentation5"><img src="<?php echo $url; ?>/images/design/icone5.png" alt="PlayOnLinux" /><span class="title">J'aimerais lire les dernières nouvelles du projet</span><span class="description">Les dix dernières news</span></div>
-<div id="pres_item5" class="presentation_item_hidden no_bottom">
-<?php afficher_10_last($lng, "playonlinux"); ?>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/tuto_swtor_mac/4.jpg
+' class='lightbox'><img src="http://www.playonmac.com/images/tuto_swtor_mac/4.jpg
+" alt='Miniature' /></a>
+<span class='caption'>Écran principal</span>
 </div>
+
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/tuto_swtor_mac/5.jpg
+' class='lightbox'><img src="http://www.playonmac.com/images/tuto_swtor_mac/5.jpg
+" alt='Miniature' /></a>
+<span class='caption'>Fenêtre d'installation</span>
+</div>
+
+<div class='pom_picture'>
+<a href='http://www.playonmac.com/images/apps/med/6.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/6.jpg" alt='Miniature' /></a>
+<span class='caption'>Internet Explorer 8</span>
+</div>
+
 <div class="espace"></div>

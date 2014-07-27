@@ -23,7 +23,7 @@
 <h2>Controversial topics</h2>
 <p>It is strictly forbidden to post controversy subject ("Trolls"). Meaningful criticisms against a software (or a brand, a type of software) are also prohibited. For instance, every messages including words as such as <i>"Windobe"</i> or <i>"Micro$oft"</i> will be closed.
 
-<h2>Avant de poster</h2>
+<h2>Before posting</h2>
 <p>Ensure you are writting on the good forum</p>
 <p>In every forum, there are highlighted topics, marked with a <b>sticky</b>. Reading these is mandatory before posting a message in this forum.</p>
 <p>You <b>must</b> do a research before asking for help. For example, you must ensure that there are <b>no</b> other topic about your problem before posting</p> 

@@ -19,14 +19,46 @@
 	</ul>
 
 <h2>Quelques captures d'écran de PlayOnLinux</h2>
-<p>
-<?php
-for($i = 0; $i < 6; $i++)
-{
-	?><a href="<?php echo $url; ?>/images/presentation/capture<?php echo $i+1; ?>.<?php echo $lng; ?>.png" title="PlayOnLinux" class="lightbox"><img src="<?php echo $url; ?>/images/presentation/min/capture<?php echo $i+1; ?>.<?php echo $lng; ?>.png" alt="" /></a>&nbsp;&nbsp;<?php
-}
-?>
-</p>
+
+
+<div class='pol_picture'>
+<a href='http://www.playonlinux.com/images/playonlinux_screenshots/install_wizard.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/install_wizard-min.png" alt='Miniature' /></a>
+<span class='caption'>Fenêtre principale</span>
+</div>
+
+<div class='pol_picture'>
+<a href='http://www.playonlinux.com/images/playonlinux_screenshots/program.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/program-min.png" alt='Miniature' /></a>
+<span class='caption'>Installation de programmes</span>
+</div>
+
+<div class='pol_picture'>
+<a href='http://www.playonlinux.com/images/playonlinux_screenshots/install.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/install-min.png" alt='Miniature' /></a>
+<span class='caption'>Installation</span>
+</div>
+
+<div class='pol_picture'>
+<a href='http://www.playonlinux.com/images/playonlinux_screenshots/install2.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/install2-min.png" alt='Miniature' /></a>
+<span class='caption'>Installation</span>
+</div>
+
+
+<div class='pol_picture'>
+<a href='http://www.playonlinux.com/images/playonlinux_screenshots/plugin.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/plugin-min.png" alt='Miniature' /></a>
+<span class='caption'>Plugins</span>
+</div>
+
+<div class='pol_picture'>
+<a href='http://www.playonlinux.com/images/playonlinux_screenshots/wine.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/wine-min.png" alt='Miniature' /></a>
+<span class='caption'>Versions de wine</span>
+</div>
+
+<div class="espace"></div>
+
+
+
+
+
+
 </div>
 <div class="presentation_item" onclick="pres_show(2)"><img src="<?php echo $url; ?>/images/design/icone2.png" alt="PlayOnLinux" /><span class="title">J'aimerais télécharger PlayOnLinux</span><span class="description">Dernière version : <?php include($racine."/script_files/version2.php"); ?></span></div>
 <div id="pres_item2" class="presentation_item_hidden">
@@ -50,7 +82,7 @@ for($i = 0; $i < 6; $i++)
 <?php
 //echo $_COOKIE["LastNews"];
 
-if(get_last_news("fr") == $_COOKIE["LastNews_fr"])
+if(isset($_COOKIE["LastNews_fr"]) && get_last_news("fr") == $_COOKIE["LastNews_fr"])
 	$last = "";
 else
 	$last = "_2";
