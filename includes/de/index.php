@@ -69,11 +69,11 @@ PlayOnLinux basiert auf Wine und profitiert von dessen Funktionen, wobei es dess
 <p>You can read the <a href="<?php echo $page_doc; ?>">documentation</a> or ask for help on the <a href="<?php echo $prefixe; ?>/forums.html">forums</a>.</p></div>
 <div class="presentation_item" onclick="pres_show(4)" id="presentation4"><img src="<?php echo $url; ?>/images/design/icone4.png" alt="PlayOnLinux" /><span class="title">I'd like to help PlayOnLinux</span><span class="description">What can I do to help PlayOnLinux's team ?</span></div>
 <div id="pres_item4" class="presentation_item_hidden"><h2>Help the project</h2>
-<p>There are many ways to help the team. You can:</p>
+<p><!--There are many ways to help the team. You can:-->Es gibt viele Wege dem Team zu helfen. Sie können:</p>
 <ul>
-<li>Write some news and send it to the administrators</li>
-<li>Help the other users on the <a href="<?php echo $prefixe; ?>/forums.html">forums</a></li>
-<li>Send us your installation script</li>
+<li><!--Write some news and send it to the administrators--><!--#TODO#--></li>
+<li><!--Help the other users on the --><!--#TODO#--><a href="<?php echo $prefixe; ?>/forums.html">Forum</a></li>
+<li><!--Send us your installation script--><!--#TODO#--></li>
 <li><a href='donate.html'><!--Donate-->Spenden</a></li>
 
 </ul>
