@@ -71,7 +71,7 @@
 <li>Write some news and send it to the administrators</li>
 <li>Help the other users on the <a href="<?php echo $prefixe; ?>/forums.html">forums</a></li>
 <li>Send us your installation script</li>
-<li><a href='donate.html'>Donate</a></li>
+<li><a href='donate.html'><!--Donate-->Spenden</a></li>
 
 </ul>
 </div>
@@ -79,22 +79,24 @@
 // PLEASE REPLACE "en" BY THE CODE OF YOUR LANGUAGE 
 // PLEASE REPLACE "en" IN LastNews_en ALSO
 
-if(isset($_COOKIE["LastNews_en"]) && get_last_news("en") == $_COOKIE["LastNews_en"])
+if(isset($_COOKIE["LastNews_de"]) && get_last_news("de") == $_COOKIE["LastNews_de"])
 	$last = "";
 else
 	$last = "_2";
 ?>
 <div class="presentation_item" onclick="pres_show(6)" id="presentation6"><img src="<?php echo $url; ?>/images/design/icone6.png" alt="PlayOnLinux" /><span class="title">I'd like to contact the team</span><span class="description">How can I contact the team?</span></div>
 <div id="pres_item6" class="presentation_item_hidden">
-<h2>Contact the team</h2>
-<p>To contact the team, you can: </p>
+<h2><!--Contact the team-->Kontakt mit dem Team</h2>
+<p><!--To contact the team, you can: -->Um kontakt mit dem Team aufzunehmen, kannst du:</p>
 <ul>
-<li>Go on #playonlinux channel on irc.freenode.com</li>
-<li>Send a mail to contact &lt; at &gt; playonlinux.com</li>
+<li><!--Go on #playonlinux channel on irc.freenode.com-->Betrete den Kanal #playonlinux auf irc.freenode.com</li>
+<li><!--Send a mail to contact &lt; at &gt; playonlinux.com-->Sende eine Mial an contact &lt; at &gt; playonlinux.com</li>
 </ul>
 </div>
 
-<div class="presentation_item no_bottom" onclick="pres_show(5)" id="presentation5"><img src="<?php echo $url; ?>/images/design/icone5<?php echo $last; ?>.png" alt="PlayOnLinux" /><span class="title">I'd like to read the latest news</span><span class="description">The ten latest news</span></div>
+<div class="presentation_item no_bottom" onclick="pres_show(5)" id="presentation5"><img src="<?php echo $url; ?>/images/design/icone5<?php echo $last; ?>.png" alt="PlayOnLinux" />
+<span class="title"><!--I'd like to read the latest news-->Ich möchte die letzten Neuigkeiten lesen</span>
+<span class="description"><!--The ten latest news-->Die neusten zehn Nachrichten</span></div>
 <div id="pres_item5" class="presentation_item_hidden no_bottom">
 <?php afficher_10_last($lng); ?>
 </div>
