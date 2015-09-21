@@ -5,7 +5,7 @@
 	<?php
 	include($racine."/script_files/version_mac.php");
 	?>-->
-	<div style='float:left;width:50%;text-align:center'><img src='http://www.playonlinux.com/images/pom_banniere.png' alt='banniere' style='width:95%'/></div>
+	<div style='float:left;width:50%;text-align:center'><img src='<?php echo $url; ?>/images/pom_banniere.png' alt='banniere' style='width:95%'/></div>
 	<div style='float:left;width:50%;text-align:center;padding-top:50px'><div><a class='pol_script btn btn-default' href="http://repository.playonmac.com/PlayOnMac/PlayOnMac_<?php echo $version; ?>.dmg"><i class='fa fa-download'></i> <?php echo T_("Download PlayOnMac"); ?></a></div><div style='padding-top:5px;color:#666666;font-size:12px'>Version <?php echo $version; ?> &nbsp;&#8226;&nbsp; <?php echo round(filesize("script_files/PlayOnMac/PlayOnMac_".$version.".dmg")/1024/1024, 0); ?>MB</div></div>
 	<div class='grandespace'></div>
 	
@@ -74,37 +74,37 @@
 <h1>Quelques captures d'écran de PlayOnMac</h1>
 
 <div class='pom_picture'>
-<a href='http://www.playonmac.com/images/apps/med/1167.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/1167.jpg" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/apps/med/1167.jpg' class='lightbox'><img src="<?php echo $url; ?>/images/apps/min/1167.jpg" alt='Miniature' /></a>
 <span class='caption'>Star Wars: The Old Republic</span>
 </div>
 
 <div class='pom_picture'>
-<a href='http://www.playonmac.com/images/apps/med/312.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/312.jpg" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/apps/med/312.jpg' class='lightbox'><img src="<?php echo $url; ?>/images/apps/min/312.jpg" alt='Miniature' /></a>
 <span class='caption'>Trackmania Nation Forever</span>
 </div>
 
 <div class='pom_picture'>
-<a href='http://www.playonmac.com/images/apps/med/65.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/65.jpg" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/apps/med/65.jpg' class='lightbox'><img src="<?php echo $url; ?>/images/apps/min/65.jpg" alt='Miniature' /></a>
 <span class='caption'>Photofiltre</span>
 </div>
 
 <div class='pom_picture'>
-<a href='http://www.playonmac.com/images/tuto_swtor_mac/4.jpg
-' class='lightbox'><img src="http://www.playonmac.com/images/tuto_swtor_mac/4.jpg
+<a href='<?php echo $url; ?>/images/tuto_swtor_mac/4.jpg
+' class='lightbox'><img src="<?php echo $url; ?>/images/tuto_swtor_mac/4.jpg
 " alt='Miniature' /></a>
 <span class='caption'>Écran principal</span>
 </div>
 
 
 <div class='pom_picture'>
-<a href='http://www.playonmac.com/images/tuto_swtor_mac/5.jpg
-' class='lightbox'><img src="http://www.playonmac.com/images/tuto_swtor_mac/5.jpg
+<a href='<?php echo $url; ?>/images/tuto_swtor_mac/5.jpg
+' class='lightbox'><img src="<?php echo $url; ?>/images/tuto_swtor_mac/5.jpg
 " alt='Miniature' /></a>
 <span class='caption'>Fenêtre d'installation</span>
 </div>
 
 <div class='pom_picture'>
-<a href='http://www.playonmac.com/images/apps/med/6.jpg' class='lightbox'><img src="http://www.playonmac.com/images/apps/min/6.jpg" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/apps/med/6.jpg' class='lightbox'><img src="<?php echo $url; ?>/images/apps/min/6.jpg" alt='Miniature' /></a>
 <span class='caption'>Internet Explorer 8</span>
 </div>
 

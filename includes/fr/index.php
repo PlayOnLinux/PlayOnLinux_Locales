@@ -22,33 +22,34 @@
 
 
 <div class='pol_picture'>
-<a href='http://www.playonlinux.com/images/playonlinux_screenshots/install_wizard.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/install_wizard-min.png" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/playonlinux_screenshots/install_wizard.png' class='lightbox'><img src="<?php echo $url; ?>/images/playonlinux_screenshots/install_wizard-min.png" alt='Miniature' /></a>
 <span class='caption'>Fenêtre principale</span>
 </div>
 
 <div class='pol_picture'>
-<a href='http://www.playonlinux.com/images/playonlinux_screenshots/program.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/program-min.png" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/playonlinux_screenshots/program.png' class='lightbox'><img src="<?php echo $url; ?>/images/playonlinux_screenshots/program-min.png" alt='Miniature' /></a>
 <span class='caption'>Installation de programmes</span>
 </div>
 
 <div class='pol_picture'>
-<a href='http://www.playonlinux.com/images/playonlinux_screenshots/install.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/install-min.png" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/playonlinux_screenshots/install.png' class='lightbox'><img src="<?php echo $url; ?>/images/playonlinux_screenshots/install-min.png" alt='Miniature' /></a>
 <span class='caption'>Installation</span>
 </div>
 
 <div class='pol_picture'>
-<a href='http://www.playonlinux.com/images/playonlinux_screenshots/install2.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/install2-min.png" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/playonlinux_screenshots/install2.png' class='lightbox'><img src="<?php echo $url; ?>/images/playonlinux_screenshots/install2-min.png" alt='Miniature' /></a>
 <span class='caption'>Installation</span>
 </div>
 
 
 <div class='pol_picture'>
-<a href='http://www.playonlinux.com/images/playonlinux_screenshots/plugin.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/plugin-min.png" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/playonlinux_screenshots/plugin.png' class='lightbox'><img src="<?php echo $url; ?>/images/playonlinux_screenshots/plugin-min.png" alt='Miniature' /></a>
+
 <span class='caption'>Plugins</span>
 </div>
 
 <div class='pol_picture'>
-<a href='http://www.playonlinux.com/images/playonlinux_screenshots/wine.png' class='lightbox'><img src="http://www.playonlinux.com/images/playonlinux_screenshots/wine-min.png" alt='Miniature' /></a>
+<a href='<?php echo $url; ?>/images/playonlinux_screenshots/wine.png' class='lightbox'><img src="<?php echo $url; ?>/images/playonlinux_screenshots/wine-min.png" alt='Miniature' /></a>
 <span class='caption'>Versions de wine</span>
 </div>
 

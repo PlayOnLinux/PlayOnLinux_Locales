@@ -808,8 +808,8 @@ msgstr "Outils"
 msgid "Advertising seems to be blocked by your browser."
 msgstr "La publicité semble être bloquée par votre navigateur."
 
-msgid "Please notice that advertising helps us to host the project.<br /><br />If you find these ads intrusive or inappropriate, please contact me."
-msgstr "La publicité nous aide à héberger le projet<br /><br />Si vous trouvez ces publicités inappropriées, n'hésitez pas à me contacter." 
+msgid "It is fine, but please keep in mind that advertising helps us to host the project.<br /><br />If you find these ads intrusive or inappropriate, feel free to contact us."
+msgstr "La publicité nous aide à héberger le projet<br /><br />Si vous trouvez ces publicités inappropriées, n'hésitez pas à nous contacter." 
 
 msgid "Quick tasks"
 msgstr "Tâches rapides"
@@ -1147,3 +1147,9 @@ msgstr "Le saviez-vous ?"
 
 msgid "This program also exists on {0}."
 msgstr "Ce logiciel existe aussi pour {0}."
+
+msgid "This website uses cookies to ensure you get the best experience"
+msgstr "Pour le confort de votre navigation, ce site stocke des cookies sur votre ordinateur"
+
+msgid "Got it!"
+msgstr "Compris !"
