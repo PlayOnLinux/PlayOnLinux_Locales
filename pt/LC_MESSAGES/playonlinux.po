@@ -1,0 +1,1154 @@
+msgid " $jour;"
+msgstr " $jour;"
+
+msgid " $mois;"
+msgstr " $mois;"
+
+msgid " at "
+msgstr " em "
+
+msgid " false;"
+msgstr " false;"
+
+msgid " people online"
+msgstr " pessoa(s) conectadas"
+
+msgid "<li><b>Priority</b> changed to "
+msgstr "<li><b>Prioridade</b> alterada para "
+
+msgid "<li><b>Statut</b> changed to "
+msgstr "<li><b>Status</b> alterado para "
+
+msgid "<li><b>Subject</b> changed to "
+msgstr "<li><b>Assunto</b> alterado para "
+
+msgid "<li><b>Tracker</b> changed to "
+msgstr "<li><b>Rota</b> alterada para "
+
+msgid "Accessories"
+msgstr "Acessórios"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Add a program"
+msgstr "Adicionar um programa"
+
+msgid "Add a screenshot"
+msgstr "Adicionar um screenshot"
+
+msgid "Added by {user} on {date}"
+msgstr "Adicionado por {user} em {date}"
+
+msgid "Admin"
+msgstr "Administradores"
+
+msgid "Ads"
+msgstr "Publicidade"
+
+msgid "Advertising seems to be blocked by your browser."
+msgstr "Publicidade parece estar bloqueado pelo seu navegador."
+
+msgid "All distributions"
+msgstr "Todas as distribuições"
+
+msgid "All languages"
+msgstr "Todas as línguas"
+
+msgid "All unsigned installers"
+msgstr "Todos os instaladores não assinados"
+
+msgid "AMD Graphic card users"
+msgstr "Usuários de placa de vídeo AMD"
+
+msgid "Answer to topic :"
+msgstr "Responder o tema :"
+
+msgid "Answer"
+msgstr "Responder"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "Assign to"
+msgstr "Assinado por"
+
+msgid "Assigned to"
+msgstr "Assinado por"
+
+msgid "Assigned to:"
+msgstr "Assinado por:"
+
+msgid "Assigned&nbsp;to"
+msgstr "Assinado por"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Automatic topic"
+msgstr "Tema automático"
+
+msgid "Available Wine packages"
+msgstr "Pacotes Wine disponíveis"
+
+msgid "Avatar adress"
+msgstr "Endereço de avatar"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Banned"
+msgstr "Banido"
+
+msgid "BB Code"
+msgstr "BB Code"
+
+msgid "Big"
+msgstr "Grande"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "By rank"
+msgstr "Por classificação"
+
+msgid "By search"
+msgstr "Por pesquisa"
+
+msgid "By"
+msgstr "Por"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Change priority"
+msgstr "Alterar prioridade"
+
+msgid "Change statut"
+msgstr "Alterar status"
+
+msgid "Change title"
+msgstr "Alterar título"
+
+msgid "Change tracker"
+msgstr "Alterar rota"
+
+msgid "Change your password"
+msgstr "Alterar sua senha"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Check if this member has 2 accounts"
+msgstr "Verificar se este membro tem 2 contas"
+
+msgid "Check received warnings"
+msgstr "Verificar alertas recebidos"
+
+msgid "Choose"
+msgstr "Escolher"
+
+msgid "Click here to go back to the private message page."
+msgstr "Clique aqui para voltar à página de mensagem privada."
+
+msgid "Click here to go back to the private messages page"
+msgstr "Clique aqui para voltar à página de mensagens privadas"
+
+msgid "Click here to see available wine packages"
+msgstr "Clique aqui para ver os pacotes Wine disponíveis"
+
+msgid "Click here to see it"
+msgstr "Clique aqui para ver"
+
+msgid "Code quality"
+msgstr "Qualidade do código"
+
+msgid "Code you received on your mailbox:"
+msgstr "Código recebido em seu e-mail:"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Comment or update this ticket"
+msgstr "Comente ou atualize esta etiqueta"
+
+msgid "comment(s)"
+msgstr "comentário(s)"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "Community"
+msgstr "Comunidade"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Confirmed"
+msgstr "Confirmado"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Contribute"
+msgstr "Contribuir"
+
+msgid "Creator"
+msgstr "Criador"
+
+msgid "December"
+msgstr "Dezembro"
+
+msgid "Delete a message"
+msgstr "Deletar mensagem"
+
+msgid "Delete"
+msgstr "Deletar"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Description, steps to reproduce:"
+msgstr "Descrição, passos para reproduzir:"
+
+msgid "Description/Steps to reproduce"
+msgstr "Descrição/Passos para reproduzir"
+
+msgid "Developement version"
+msgstr "Versão de desenvolvimento"
+
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+msgid "Development"
+msgstr "Desenvolvimento"
+
+msgid "Did you now?"
+msgstr "Você sabe?"
+
+msgid "Do you really want to delete this message?"
+msgstr "Você realmente deseja excluir esta mensagem?"
+
+msgid "Documentation"
+msgstr "Documentação"
+
+msgid "Donate"
+msgstr "Doar"
+
+msgid "Download PlayOnMac"
+msgstr "Baixar PlayOnMac"
+
+msgid "Download"
+msgstr "Baixar"
+
+msgid "Downloads"
+msgstr "Baixados"
+
+msgid "Downloads:"
+msgstr "Baixados:"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Edit a post"
+msgstr "Editar mensagem"
+
+msgid "Edit this member's profile"
+msgstr "Editar seu perfil"
+
+msgid "Edit your profile"
+msgstr "Editar seu perfil"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edited by"
+msgstr "Editado por:"
+
+msgid "Education"
+msgstr "Educação"
+
+msgid "Enter your password again"
+msgstr "Digite sua senha novamente"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "February"
+msgstr "Fevereiro"
+
+msgid "Feedbacks"
+msgstr "Feedbacks"
+
+msgid "Fill these blanks"
+msgstr "Preencha estes espaços em branco"
+
+msgid "Fixed"
+msgstr "Fixado"
+
+msgid "Float"
+msgstr "Orientação"
+
+msgid "Follow us"
+msgstr "Siga-nos"
+
+msgid "Fonts"
+msgstr "Fontes"
+
+msgid "Forgotten password"
+msgstr "Senha esquecida"
+
+msgid "Forums list"
+msgstr "Lista de fóruns"
+
+msgid "Forums"
+msgstr "Fóruns"
+
+msgid "Friday"
+msgstr "Sexta-feira"
+
+msgid "Functions"
+msgstr "Funções"
+
+msgid "Games"
+msgstr "Jogos"
+
+msgid "Give this member a warning"
+msgstr "Dar para este membro uma advertência"
+
+msgid "Got it!"
+msgstr "Entendi!"
+
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Guestbook"
+msgstr "Livro de visitas"
+
+msgid "Here the ten latest articles: "
+msgstr "Aqui, os dez últimos artigos:"
+
+msgid "High"
+msgstr "Alto"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "Huge"
+msgstr "Enorme"
+
+msgid "I have read, I understand, and I accept the terms of use"
+msgstr "Eu li, eu entendo, e eu aceito os termos de uso"
+
+msgid "I want to give a feedback"
+msgstr "Eu quero dar um feedback"
+
+msgid "I want to submit an improvement"
+msgstr "Eu quero apresentar uma melhoria"
+
+msgid "In progress"
+msgstr "Em progresso"
+
+msgid "in"
+msgstr "em"
+
+msgid "Inbox"
+msgstr "Caixa de entrada"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Information is missing"
+msgstr "Faltam dados"
+
+msgid "Information"
+msgstr "Informação"
+
+msgid "Informations"
+msgstr "Informações"
+
+msgid "Install this program"
+msgstr "Instalar este programa"
+
+msgid "Install {0}"
+msgstr "Instalar {0}"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Invalid"
+msgstr "Inválido"
+
+msgid "It is fine, but please keep in mind that advertising helps us to host the project.<br /><br />If you find these ads intrusive or inappropriate, feel free to contact us."
+msgstr "Tudo bem, mas por favor, tenha em mente que a publicidade nos ajuda a acolher o projeto. <br /> <br /> Se você achar esses anúncios intrusivos ou inadequados, não hesite em nos informar."
+
+msgid "January"
+msgstr "Janeiro"
+
+msgid "July"
+msgstr "Julho"
+
+msgid "jump to the page"
+msgstr "ir para a página"
+
+msgid "Jump to the page: "
+msgstr "Ir para a página: "
+
+msgid "June"
+msgstr "Junho"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Last changes"
+msgstr "Últimas alterações"
+
+msgid "Last connection"
+msgstr "Última conexão"
+
+msgid "Last topics"
+msgstr "Últimos temas"
+
+msgid "Last update:"
+msgstr "Última atualização:"
+
+msgid "Last versions"
+msgstr "Últimas versões"
+
+msgid "Latest message"
+msgstr "Última mensagem"
+
+msgid "Latest messages"
+msgstr "Últimas mensagens"
+
+msgid "Latest tickets"
+msgstr "Últimas etiquetas"
+
+msgid "Latest updates"
+msgstr "Últimas atualizações"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Like {0}?"
+msgstr "Gostou {0}?"
+
+msgid "Lock"
+msgstr "Bloquear"
+
+msgid "Log in"
+msgstr "Iniciar sessão"
+
+msgid "Log out"
+msgstr "Encerrar sessão"
+
+msgid "Login"
+msgstr "Usuário"
+
+msgid "Low"
+msgstr "Baixo"
+
+msgid "March"
+msgstr "Março"
+
+msgid "Mark as solved"
+msgstr "Marcar como solucionado"
+
+msgid "Mark as unsolved"
+msgstr "Marcar como não solicionado"
+
+msgid "May"
+msgstr "Maio"
+
+msgid "Medium"
+msgstr "Médio"
+
+msgid "Member list"
+msgstr "Lista de membros"
+
+msgid "Member"
+msgstr "Membro"
+
+msgid "Members"
+msgstr "Membros"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Messages"
+msgstr "Mensagens"
+
+msgid "Moderation"
+msgstr "Moderação"
+
+msgid "Moderator"
+msgstr "Moderador"
+
+msgid "Monday"
+msgstr "Segunda-feira"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Multimedia"
+msgstr "Multimídia"
+
+msgid "My assigned bugs"
+msgstr "Meus erros assinados"
+
+msgid "My unsigned installers"
+msgstr "Meus instaladores não assinados"
+
+msgid "New installer"
+msgstr "Novo instalador"
+
+msgid "New message"
+msgstr "Nova mensagem"
+
+msgid "New source code"
+msgstr "Novo código fonte"
+
+msgid "New ticket"
+msgstr "Nova etiqueta"
+
+msgid "New topic"
+msgstr "Novo tema"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "News"
+msgstr "Notícias"
+
+msgid "Next chapter"
+msgstr "Próximo capítulo"
+
+msgid "Nickname"
+msgstr "Apelido"
+
+msgid "No Messages"
+msgstr "Sem mensagens"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "November"
+msgstr "Novembro"
+
+msgid "Number of download:"
+msgstr "Número de baixado(s):"
+
+msgid "Object"
+msgstr "Objeto"
+
+msgid "October"
+msgstr "Outubro"
+
+msgid "of"
+msgstr "de"
+
+msgid "Office"
+msgstr "Escritório"
+
+msgid "Olive"
+msgstr "Oliva"
+
+msgid "on"
+msgstr "em"
+
+msgid "Only comments"
+msgstr "Apenas comentários"
+
+msgid "Only my language"
+msgstr "Apenas minha língua"
+
+msgid "Only updates"
+msgstr "Apenas atualizações"
+
+msgid "Optional message"
+msgstr "Mensagem opcional"
+
+msgid "Orange"
+msgstr "Laranja"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Packages"
+msgstr "Pacotes"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "Partners"
+msgstr "Parceiros"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Patches"
+msgstr "Patches"
+
+msgid "people on IRC"
+msgstr "Usuários no IRC"
+
+msgid "people online"
+msgstr "Usuários conectados"
+
+msgid "Platforms:"
+msgstr "Plataformas"
+
+msgid "PlayOnLinux - Run your Windows applications on Linux easily!"
+msgstr "PlayOnLinux - Rode seu programa do Windows no Linux facilmente"
+
+msgid "PlayOnMac - Run your Windows applications on Mac easily!"
+msgstr "PlayOnMac - Rode seu programa do Windows no Mac facilmente"
+
+msgid "PlayOn{0} - Run your Windows applications on {0} easily!"
+msgstr "PlayOn{0} - Rode seu programa do Windows no {0} facilmente"
+
+msgid "Please complete this registration form"
+msgstr "Por favor, preencha este formulário de inscrição"
+
+msgid "Please go back"
+msgstr "Por favor, volte"
+
+msgid "Poll"
+msgstr "Votação"
+
+msgid "Post a comment"
+msgstr "Fazer um comentário"
+
+msgid "Presentation"
+msgstr "Apresentação"
+
+msgid "Press and conferences"
+msgstr "Publicações e conferências"
+
+msgid "Preview"
+msgstr "Visão prévia"
+
+msgid "Previous chapter"
+msgstr "Capítulo anterior"
+
+msgid "Priority"
+msgstr "Prioridade"
+
+msgid "Priority:"
+msgstr "Prioridade:"
+
+msgid "Private messages"
+msgstr "Mensagens privadas"
+
+msgid "Profiles"
+msgstr "Perfis"
+
+msgid "Project list"
+msgstr "Lista de projeto"
+
+msgid "Project"
+msgstr "Projeto"
+
+msgid "Purple"
+msgstr "Roxo"
+
+msgid "Quick reply"
+msgstr "Resposta rápida"
+
+msgid "Quick tasks"
+msgstr "Tarefas rápidas"
+
+msgid "Quotation"
+msgstr "Citação"
+
+msgid "Quote from $1:"
+msgstr "Citado de $1:"
+
+msgid "Quote"
+msgstr "Citar"
+
+msgid "Quote:"
+msgstr "Citar:"
+
+msgid "Rank"
+msgstr "Classificação"
+
+msgid "Read a message"
+msgstr "Ler mensagem"
+
+msgid "Read"
+msgstr "Lido"
+
+msgid "Recipient"
+msgstr "Destinatário"
+
+msgid "Recopy"
+msgstr "Copiar"
+
+msgid "Red"
+msgstr "Vermelho"
+
+msgid "Register"
+msgstr "Registrar"
+
+msgid "Registration for PlayOnLinux and PlayOnMac"
+msgstr "Registro para PlayOnLinux e PlayOnMac"
+
+msgid "Remember"
+msgstr "Lembrar"
+
+msgid "Remove signature"
+msgstr "Remover assinatura"
+
+msgid "Replies"
+msgstr "Respostas"
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "Report a problem"
+msgstr "Comunicar um problema"
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Secret"
+msgstr "Segredo"
+
+msgid "Secret:"
+msgstr "Segredo:"
+
+msgid "See profile"
+msgstr "Ver perfil"
+
+msgid "Send a private message"
+msgstr "Enviar uma mensagem privada"
+
+msgid "Send this member a private message"
+msgstr "Envie para este membro uma mensagem privada"
+
+msgid "Send us your own script"
+msgstr "Envie seu script"
+
+msgid "Send"
+msgstr "Enviado"
+
+msgid "Sent messages"
+msgstr "Mensagens enviadas"
+
+msgid "Sent on"
+msgstr "Enviado"
+
+msgid "Sent"
+msgstr "Enviado"
+
+msgid "Set as solved"
+msgstr "Marcar como resolvido"
+
+msgid "Set as unsolved"
+msgstr "Marcar como não resolvido"
+
+msgid "Set post-it off"
+msgstr "Desativar post-it"
+
+msgid "Set post-it on"
+msgstr "Ativar post-it"
+
+msgid "Show closed tickets"
+msgstr "Mostrar etiquetas fechadas"
+
+msgid "Show your email adress"
+msgstr "Mostrar seu endereço de e-mail"
+
+msgid "Show your signature"
+msgstr "Mostrar sua assinatura"
+
+msgid "Sign the terms of use"
+msgstr "Assinar os termos de uso"
+
+msgid "Sign"
+msgstr "Entrar"
+
+msgid "Signature"
+msgstr "Assinatura"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Small"
+msgstr "Pequeno"
+
+msgid "Smileys"
+msgstr "Smileys"
+
+msgid "Snow Leopard and Lion"
+msgstr "Snow Leopard e Lion"
+
+msgid "Some {0} installers"
+msgstr "Alguns {0} instaladores"
+
+msgid "Source code"
+msgstr "Código-fonte"
+
+msgid "Staff description"
+msgstr "Descrição de funcionários"
+
+msgid "Statut"
+msgstr "Status"
+
+msgid "Statut:"
+msgstr "Status:"
+
+msgid "Sub-title"
+msgstr "Subtítulo"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Subscribe"
+msgstr "Inscrever-se"
+
+msgid "Success"
+msgstr "Sucesso"
+
+msgid "Suggest a news story"
+msgstr "Sugerir uma notícia"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Supported platforms:"
+msgstr "Plataformas suportados"
+
+msgid "Supported software"
+msgstr "Programas suportados"
+
+msgid "Terminal output:"
+msgstr "Terminal de saída:"
+
+msgid "Terms of use"
+msgstr "Termos de uso"
+
+msgid "Thank you. You have now access to every services"
+msgstr "Obrigado. Você tem agora acesso a todos os serviços"
+
+msgid "The aim of PlayOnLinux is to make the games designed for Microsoft Windows easy to install on Linux, thanks to the famous Wine."
+msgstr "O objetivo do PlayOnLinux é fazer com que os jogos projetados para o Microsoft Windows sejam fáceis de instalar no Linux, graças ao famoso Wine."
+
+msgid "The code is not correct"
+msgstr "O código está incorreto"
+
+msgid "The forum"
+msgstr "O fórum"
+
+msgid "The message is missing"
+msgstr "A mensagem foi perdida"
+
+msgid "The message selected does not exist"
+msgstr "A mensagem selecionada não existe"
+
+msgid "The news"
+msgstr "As notícias"
+
+msgid "The passwords don't match"
+msgstr "As senhas não coincidem"
+
+msgid "The PlayOnLinux team"
+msgstr "A equipe de PlayOnLinux"
+
+msgid "The requested topic does not exist"
+msgstr "O tema solicitado não existe."
+
+msgid "The requested topic does not exist. Please go back to the previous page."
+msgstr "O tema solicitado não existe. Por favor, volte à página anterior."
+
+msgid "The selected message does not exist"
+msgstr "A mensagem selecionada não existe"
+
+msgid "The selected recipient of the message does not exist. Please go back to the previous page"
+msgstr "O destinatário da mensagem selecionada não existe. Por favor, volte para a página anterior"
+
+msgid "The ten latest articles"
+msgstr "As dez últimas notícias"
+
+msgid "The ten latest srticles"
+msgstr "As dez últimas notícias"
+
+msgid "The website team"
+msgstr "O equipe do site"
+
+msgid "There are no comments yet. Feel free to post yours"
+msgstr "Não existem comentários. Sinta-se livre para deixar o seu"
+
+msgid "There are no messages."
+msgstr "Sem mensagens"
+
+msgid "This content is not available in your language"
+msgstr "Este conteúdo não está disponível em seu idioma"
+
+msgid "This installer has been approved by the team."
+msgstr "Este instalador foi aprovado pela equipe."
+
+msgid "This login already exists"
+msgstr "Usuário já existe"
+
+msgid "This member does not want to show it"
+msgstr "Este membro não quer mostrá-lo"
+
+msgid "This member has not posted yet"
+msgstr "Este membro ainda não postou"
+
+msgid "This member's IP"
+msgstr "IP deste membro"
+
+msgid "This member's profile"
+msgstr "Perfil deste membro"
+
+msgid "This message does not exist."
+msgstr "Esta mensagem não existe."
+
+msgid "This message will be deleted forever. Are you sure?"
+msgstr "A mensagem será deletada para sempre. Tem certeza?"
+
+msgid "This program also exists on {0}."
+msgstr "Este programa também existe no {0}."
+
+msgid "This program does not run well"
+msgstr "Este programa não funciona bem"
+
+msgid "This program runs well"
+msgstr "Este programa funciona bem"
+
+msgid "This thread has been locked by a moderator"
+msgstr "Esta linha foi bloqueada por um moderador"
+
+msgid "This topic has been locked by a moderator"
+msgstr "Este tema foi bloqueado por um moderador"
+
+msgid "This update has been approved by the team."
+msgstr "Esta atualização foi aprovada pela equipe."
+
+msgid "This update has not been approved yet by the team.<br />Use it at your own risk"
+msgstr "Esta atualização ainda não foi aprovado pela equipe. <br /> Use-o em seu próprio risco"
+
+msgid "This website uses cookies to ensure you get the best experience"
+msgstr "Este site usa cookies para garantir que você obtenha a melhor experiência"
+
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+msgid "Tiny"
+msgstr "Muito pequeno"
+
+msgid "Title 1"
+msgstr "Título 1"
+
+msgid "Title 2"
+msgstr "Título 2"
+
+msgid "Title edition"
+msgstr "Título"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "To get the latest developement version, open a terminal and type:"
+msgstr "Para obter a versão mais recente developement, abra um terminal e digite:"
+
+msgid "to the private messages page"
+msgstr "para a página de mensagens privadas"
+
+msgid "Tools"
+msgstr "Ferramentas"
+
+msgid "Topic's state successfully changed"
+msgstr "O estado do tema foi alterado"
+
+msgid "Topics list"
+msgstr "Lista de temas"
+
+msgid "Topics"
+msgstr "Temas"
+
+msgid "Tracker"
+msgstr "Rota"
+
+msgid "Try this update"
+msgstr "Tente esta atualização"
+
+msgid "Tuesday"
+msgstr "terça-feira"
+
+msgid "Unlock"
+msgstr "Desbloquear"
+
+msgid "Unsubscribe"
+msgstr "Desinscrever-se"
+
+msgid "Up"
+msgstr "Acima"
+
+msgid "Update by {user} on {date}"
+msgstr "Atualizado por {user} em {data}"
+
+msgid "Updated"
+msgstr "Atualizado"
+
+msgid "Updates and comments"
+msgstr "Atualizações e comentários"
+
+msgid "Urgent"
+msgstr "Urgente"
+
+msgid "Username"
+msgstr "Usuário"
+
+msgid "Very huge"
+msgstr "Muito grande"
+
+msgid "Waiting installers"
+msgstr "Esperando instaladores"
+
+msgid "Warning"
+msgstr "Aviso"
+
+msgid "Website"
+msgstr "Site"
+
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+msgid "Welcome!"
+msgstr "Bem-vindo!"
+
+msgid "Who is online?"
+msgstr "Quem está conectado?"
+
+msgid "Won't fix"
+msgstr "Não resolveu"
+
+msgid "Yellow"
+msgstr "Amarelo"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "You are here"
+msgstr "Você está aqui"
+
+msgid "You are not allowed to see this message!"
+msgstr "Você não está autorizado para ver esta mensagem!"
+
+msgid "You are not the author of this message!"
+msgstr "Você não é o autor desta mensagem!"
+
+msgid "You are not the owner of this message!"
+msgstr "Você não é o proprietário desta mensagem!"
+
+msgid "You are not the recipient of this message"
+msgstr "Você não é o destinatário desta mensagem"
+
+msgid "You are now registered"
+msgstr "Você está registrado agora"
+
+msgid "You can make a donation"
+msgstr "Você pode fazer uma doação"
+
+msgid "You can modify the following code to improve it"
+msgstr "Você pode modificar o seguinte código para melhorá-lo"
+
+msgid "You don't have permission to access this"
+msgstr "Você não tem aceso aqui"
+
+msgid "You have not filled in the blank"
+msgstr "Você não preencheu o espaço em branco"
+
+msgid "You have to be logged in to see your private messages"
+msgstr "Você tem que estar logado para ver mensagens particulares"
+
+msgid "You must accept the terms of use"
+msgstr "Você deve aceitar os termos de uso"
+
+msgid "You must be a member to access to this area"
+msgstr "Você deve ser um membro para acessar esta área"
+
+msgid "You must be logged in to see your private messages"
+msgstr "Você precisa estar logado para ver suas mensagens privadas"
+
+msgid "You must be logged in to send a private message"
+msgstr "Você precisa estar logado para enviam uma mensagem privada"
+
+msgid "You're not allowed to see this page"
+msgstr "Você não está autorizado a ver esta página"
+
+msgid "Your comment has been posted. Click <a href"
+msgstr "O seu comentário foi postado. Clique <a href"
+
+msgid "Your commentary"
+msgstr "Seu comentário"
+
+msgid "Your distribution"
+msgstr "Sua distribuição"
+
+msgid "Your feedback"
+msgstr "Seu feedback"
+
+msgid "Your message has been edited"
+msgstr "Sua mensagem foi editada"
+
+msgid "Your message has been successfully deleted"
+msgstr "Sua mensagem foi excluída com sucesso"
+
+msgid "Your message has been successfully sent"
+msgstr "Sua mensagem foi enviada com sucesso"
+
+msgid "Your message has been successfully sent."
+msgstr "Sua mensagem foi enviada com sucesso."
+
+msgid "Your messages"
+msgstr "Suas mensagens"
+
+msgid "Your private messages"
+msgstr "Suas mensagens privadas"
+
+msgid "Your profile has been edited"
+msgstr "Seu perfil foi editado"
+
+msgid "Your profile"
+msgstr "Seu perfil"
+
+msgid "{day} {num} {month} {year} at {time}"
+msgstr "{day} {num} {month} {year} em {time}"
+
+msgid "{day} {num} {month} {year}"
+msgstr "{day} {num} {month} {year}"
+
+msgid "{n} comments"
+msgstr "{n} comentários"
+
+msgid "{playon} installer creator:"
+msgstr "{playon} criador do instalador:"
