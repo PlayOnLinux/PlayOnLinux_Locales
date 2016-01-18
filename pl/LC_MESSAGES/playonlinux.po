@@ -71,7 +71,7 @@ msgid "Register"
 msgstr "Rejestracja"
 
 msgid "Member list"
-msgstr "Lista członków"
+msgstr "Lista użytkowników"
 
 msgid "Your private messages"
 msgstr "Twoje prywatne wiadomości"
@@ -80,13 +80,13 @@ msgid "Ads"
 msgstr "Reklama"
 
 msgid "Who is online?"
-msgstr "Kto jest online ?"
+msgstr "Kto jest online?"
 
 msgid "people online"
 msgstr "ludzie online"
 
 msgid "Poll"
-msgstr "Sondaż"
+msgstr "Ankieta"
 
 msgid "Partners"
 msgstr "Partnerzy"
@@ -96,13 +96,13 @@ msgstr "Język"
 
 
 msgid "PlayOnLinux - Run your Windows applications on Linux easily!"
-msgstr "PlayOnLinux - Graj pod linuksem za darmo i bez trudu!"
+msgstr "PlayOnLinux - Graj pod linuksem bez trudu!"
 
 msgid "Your distribution"
-msgstr "Your distribution"
+msgstr "Twoja dystrybucja"
 
 msgid "Last versions"
-msgstr "Last versions"
+msgstr "Ostatnie wersje"
 
 msgid "You are not the owner of this message!"
 msgstr "Ta wiadomość nie należy do Ciebie!"
@@ -544,4 +544,15 @@ msgstr "Twoja wiadomość została wysłana"
 
 msgid "Click here to go back to the private message page."
 msgstr "kliknij tutaj żeby zostać przekierowanym."
+
+msgid "Bugs"
+msgstr "Błędy"
+
+msgid "Download"
+msgstr "Pobierz"
+
+msgid "Wiki"
+msgstr "Dokumentacja"
+
+
 
