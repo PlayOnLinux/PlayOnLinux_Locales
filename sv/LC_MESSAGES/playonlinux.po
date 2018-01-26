@@ -95,10 +95,10 @@ msgid "Donate"
 msgstr "Donera"
 
 msgid "PlayOnLinux - Run your Windows applications on Linux easily!"
-msgstr "PlayOnLinux - Kör enkelt dina Windows-applikationer på Linux !"
+msgstr "PlayOnLinux - Kör enkelt dina Windows-applikationer på Linux!"
 
 msgid "PlayOnMac - Run your Windows applications on Mac easily!"
-msgstr "PlayOnMac - Kör enkelt dina Windows-applikationer på Mac !"
+msgstr "PlayOnMac - Kör enkelt dina Windows-applikationer på Mac!"
 
 msgid "Your distribution"
 msgstr "Din distribution"
@@ -146,7 +146,7 @@ msgid "The selected recipient of the message does not exist. Please go back to t
 msgstr "Mottagaren är inte korrekt vald. Vänligen gå tillbaka till föregående sida"
 
 msgid "The requested topic does not exist. Please go back to the previous page."
-msgstr "Ämnet har inte valts korrekt. Vänligen gå tillbaka till föregående sida."
+msgstr "Ämnet har inte valts korrekt, Vänligen gå tillbaka till föregående sida."
 
 msgid "The requested topic does not exist"
 msgstr "Ämnestråden existerar inte"
