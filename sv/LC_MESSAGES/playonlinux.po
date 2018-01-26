@@ -95,10 +95,10 @@ msgid "Donate"
 msgstr "Donera"
 
 msgid "PlayOnLinux - Run your Windows applications on Linux easily!"
-msgstr "PlayOnLinux - Kör enkelt dina Windows-applikationer på Linux !"
+msgstr "PlayOnLinux - Kör enkelt dina Windows-applikationer på Linux!"
 
 msgid "PlayOnMac - Run your Windows applications on Mac easily!"
-msgstr "PlayOnMac - Kör enkelt dina Windows-applikationer på Mac !"
+msgstr "PlayOnMac - Kör enkelt dina Windows-applikationer på Mac!"
 
 msgid "Your distribution"
 msgstr "Din distribution"
@@ -107,7 +107,7 @@ msgid "Last versions"
 msgstr "Senaste versionerna"
 
 msgid "You are not the owner of this message!"
-msgstr "du är inte ägaren till det här meddelandet!"
+msgstr "Du är inte ägaren till det här meddelandet!"
 
 msgid "Click here to go back to the private messages page"
 msgstr "Klicka här för att gå tillbaka till den privata meddelande-sidan"
@@ -122,13 +122,13 @@ msgid "The message selected does not exist"
 msgstr "Meddelandet har valts på ett felaktigt sätt"
 
 msgid "Please go back"
-msgstr "vänligen gå tillbaka"
+msgstr "Vänligen gå tillbaka"
 
 msgid "to the private messages page"
-msgstr " till den privata meddelande-sidan"
+msgstr "till den privata meddelande-sidan"
 
 msgid "You must be logged in to see your private messages"
-msgstr "Du har loggats in för att se dina privata meddelanden"
+msgstr "Du måste logga in för att se dina privata meddelanden"
 
 msgid "You are not allowed to see this message!"
 msgstr "Du har inte tillåtelse att se det här meddelandet!"
@@ -146,7 +146,7 @@ msgid "The selected recipient of the message does not exist. Please go back to t
 msgstr "Mottagaren är inte korrekt vald. Vänligen gå tillbaka till föregående sida"
 
 msgid "The requested topic does not exist. Please go back to the previous page."
-msgstr "Ämnet har inte valts korrekt, vänligen gå tillbaka till föregående sida."
+msgstr "Ämnet har inte valts korrekt, Vänligen gå tillbaka till föregående sida."
 
 msgid "The requested topic does not exist"
 msgstr "Ämnestråden existerar inte"
@@ -155,7 +155,7 @@ msgid "This topic has been locked by a moderator"
 msgstr "Den här ämnestråden har låsts av en moderator"
 
 msgid "You're not allowed to see this page"
-msgstr "du har inte tillåtelse att se den här sidan"
+msgstr "Du har inte tillåtelse att se den här sidan"
 
 msgid "Index"
 msgstr "Index"
@@ -218,7 +218,7 @@ msgid "Sent on"
 msgstr "Skickat"
 
 msgid "Rank"
-msgstr "Ranking"
+msgstr "Rang"
 
 msgid "Edited by"
 msgstr "Ändrat av"
@@ -287,16 +287,16 @@ msgid "Topic's state successfully changed"
 msgstr "Ämnets status ändrades tillfredsställande"
 
 msgid "BB Code"
-msgstr "BB Code"
+msgstr "BB-kod"
 
 msgid "Smileys"
-msgstr "Smileys"
+msgstr "Humörsymboler"
 
 msgid "Color"
 msgstr "Färg"
 
 msgid "Float"
-msgstr "Float"
+msgstr "Flyta"
 
 msgid "Size"
 msgstr "Storlek"
@@ -440,7 +440,7 @@ msgid "E-mail"
 msgstr "E-post"
 
 msgid "Recopy"
-msgstr "Igen"
+msgstr "Kopiera igen"
 
 msgid "This login already exists"
 msgstr "Det här användarnamnet existerar redan"
@@ -467,7 +467,7 @@ msgid "Content"
 msgstr "Innehåll"
 
 msgid "Nickname"
-msgstr "Nickname"
+msgstr "Smeknamn"
 
 msgid "E-Mail"
 msgstr "Epostadress"
@@ -521,7 +521,7 @@ msgid "Avatar"
 msgstr "Avatar"
 
 msgid "Avatar adress"
-msgstr "Avatar adress"
+msgstr "Avatar-adress"
 
 msgid "Show your email adress"
 msgstr "Visa din epost-adress"
@@ -551,7 +551,7 @@ msgid "comment(s)"
 msgstr "kommentar(er)"
 
 msgid "Here the ten latest articles: "
-msgstr "Här är de tio senaste nyheterna : "
+msgstr "Här är de tio senaste nyheterna: "
 
 msgid "Your comment has been posted. Click <a href"
 msgstr "Posta en kommentar"
